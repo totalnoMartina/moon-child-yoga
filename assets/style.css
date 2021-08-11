@@ -10,3 +10,7 @@ ul {
     list-style-type: none;
 }
 
+.active-now {
+    color: #73a580;
+    border-radius: 30%;
+}
