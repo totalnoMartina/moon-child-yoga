@@ -26,3 +26,13 @@ ul {
 article {
     float: left;
 }
+
+ul li {
+    display: inline;
+}
+
+ul li:hover {
+    border-radius: 35%;
+    background-color: #eccfc3;
+    opacity: 90%;
+}
