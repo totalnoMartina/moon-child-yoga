@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+
 body {
+    font-family: 'Comfortaa', cursive;
     font-size: 2em;
     color: #eccfc3;
     text-align: center;
@@ -13,4 +16,13 @@ ul {
 .active-now {
     color: #73a580;
     border-radius: 30%;
+}
+
+#home-image {
+    size: 500px;
+    border-radius: 45%;
+}
+
+article {
+    float: left;
 }
