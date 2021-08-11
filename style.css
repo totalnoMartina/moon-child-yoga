@@ -1,0 +1,11 @@
+body {
+    font-size: larger;
+    color: #eccfc3;
+    text-align: center;
+    background: url(/assets/images/moonchildyoga-logo.jpg) no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+}
