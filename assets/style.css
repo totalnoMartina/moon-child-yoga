@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
 
+/* global styles */
+
 body {
     font-family: 'Comfortaa', cursive;
     font-size: 2em;
@@ -35,4 +37,10 @@ ul li:hover {
     border-radius: 35%;
     background-color: #eccfc3;
     opacity: 90%;
+}
+
+/* form */ 
+
+form {
+    flex: content;
 }
