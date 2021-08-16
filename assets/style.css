@@ -5,9 +5,9 @@
 body {
     font-family: 'Comfortaa', cursive;
     font-size: 2em;
-    color: #eccfc3;
+    color: #a96da3;
     text-align: center;
-    background-color: #22031F;
+    background-image: url("/assets/images/logo-background.png");
     background-size: cover;
 }
 
@@ -21,8 +21,12 @@ ul {
 }
 
 #home-image {
-    size: 500px;
+    max-width: 300px;
     border-radius: 45%;
+}
+
+section img {
+    max-width: 350px;
 }
 
 article {
