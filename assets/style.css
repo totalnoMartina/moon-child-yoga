@@ -5,17 +5,18 @@
 body {
     font-family: 'Comfortaa', cursive;
     font-size: 2em;
-    color: #a96da3;
+    color: #eccfc3;
     text-align: center;
     background-color: #22031f;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom:50px;
+    margin-bottom: 50px;
 }
 
 img {
     max-width: 350px;
     max-height: 400px;
+    float: left;
 }
 
 #intro {
@@ -25,6 +26,7 @@ img {
 #cert-image {
     max-width: 350px;
     margin: 15%;
+    padding: 5%;
 
 }
 
@@ -50,6 +52,7 @@ ul {
 
 section img {
     max-width: 350px;
+    padding: 10%;
 }
 
 #teachers {
@@ -62,14 +65,17 @@ article {
     float: left;
 }
 
-ul li {
+.link-list {
+    color: #e4d8d3;
+    letter-spacing: 0.4em;
+    border-radius: 35%;
     display: inline;
 }
 
-ul li:hover {
+.link-list:hover {
     border-radius: 35%;
-    background-color: #eccfc3;
-    opacity: 90%;
+    background-color: #a7349b;
+    opacity: 85%;
 }
 
 /* form */ 
@@ -79,12 +85,28 @@ form {
 }
 
 footer {
+    color: #fffefe;
+    text-transform: uppercase;
     position: fixed;
     height: 50px;
-    background-color: #22031f;
+    background-color: #a96da3;
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
-    border: #eccfc3;
+}
+
+.link {
+    color: #eccfc3;
+    margin-top: 50%;
+}
+
+#about-me {
+    text-align: left;
+}
+
+.about {
+    margin-top: 10%;
+    padding: 15%;
+    text-align: left;
 }
