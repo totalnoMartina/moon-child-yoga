@@ -13,6 +13,11 @@ body {
     margin-bottom:50px;
 }
 
+img {
+    max-width: 350px;
+    max-height: 400px;
+}
+
 #intro {
     text-align: left;
 }
