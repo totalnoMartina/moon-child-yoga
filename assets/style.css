@@ -7,9 +7,20 @@ body {
     font-size: 2em;
     color: #a96da3;
     text-align: center;
-    background-image: url("/assets/images/logo-background.png");
+    background-color: #22031f;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom:50px;
+}
+
+#intro {
+    text-align: left;
+}
+
+#cert-image {
+    max-width: 350px;
+    margin: 15%;
+
 }
 
 #certified {
@@ -36,6 +47,12 @@ section img {
     max-width: 350px;
 }
 
+#teachers {
+    padding: 5%;
+    text-align: right;
+    text-emphasis-color: #eccfc3;
+}
+
 article {
     float: left;
 }
@@ -54,4 +71,15 @@ ul li:hover {
 
 form {
     
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    background-color: #22031f;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    border: #eccfc3;
 }
