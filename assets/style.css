@@ -30,6 +30,10 @@ img {
     float: left;
 }
 
+#logo {
+    border-radius: 50%;
+}
+
 #intro {
     text-align: left;
 }
@@ -123,6 +127,6 @@ footer {
 
 .about {
     margin-top: 10%;
-    padding: 15%;
+    padding: 0.6em;
     text-align: left;
 }
