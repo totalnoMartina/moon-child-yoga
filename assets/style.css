@@ -1,16 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
 
 /* global styles */
 
+* {
+    margin: 0;
+    font-family: 'Urbanist', sans-serif;
+
+}
+
+h1 {
+    padding: 50px;
+}
+
 body {
-    font-family: 'Comfortaa', cursive;
     font-size: 2em;
-    color: #eccfc3;
+    color: #3d2645;
     text-align: center;
-    background-color: #22031f;
+    background-color: #c98bb9;
+    background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 50px;
+    padding: 0.4em;
 }
 
 img {
@@ -66,21 +77,24 @@ article {
 }
 
 .link-list {
-    color: #e4d8d3;
+    color: #eccfc3;
+    background-color: #403d39;
     letter-spacing: 0.4em;
     border-radius: 35%;
     display: inline;
 }
 
 .link-list:hover {
+    color: #403d39;
     border-radius: 35%;
-    background-color: #a7349b;
+    background-color: #eccfc3;
     opacity: 85%;
 }
 
 /* form */ 
 
 form {
+    padding: 0.4em;
     
 }
 
@@ -94,10 +108,11 @@ footer {
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
+    padding: 0.3em;
 }
 
 .link {
-    color: #eccfc3;
+    color: #3d2645;
     margin-top: 50%;
 }
 
