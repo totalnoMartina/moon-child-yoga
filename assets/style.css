@@ -14,7 +14,7 @@ h1 {
 
 body {
     font-size: 2em;
-    color: #3d2645;
+    color: #331f2f;
     text-align: center;
     background-color: #9f6eaf;
     background-blend-mode: darken;
@@ -81,15 +81,15 @@ article {
 }
 
 .link-list {
-    color: #eccfc3;
-    background-color: #403d39;
+    color: #eaeaea;
+    background-color: #331f2f;
     letter-spacing: 0.4em;
     border-radius: 35%;
     display: inline;
 }
 
 .link-list:hover {
-    color: #403d39;
+    color: #331f2f;
     border-radius: 35%;
     background-color: #eccfc3;
     opacity: 85%;
@@ -99,6 +99,13 @@ article {
 
 form {
     padding: 0.4em;
+    
+}
+
+.button {
+    border: 20px solid;
+    border-radius: 40%;
+    border-color: #331f2f;
     
 }
 
