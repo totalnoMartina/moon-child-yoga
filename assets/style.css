@@ -9,6 +9,7 @@
 }
 
 h1 {
+    letter-spacing: 0.3em;
     padding: 50px;
 }
 
@@ -55,6 +56,9 @@ img {
     border-radius: 50%;
     float: right;
     padding: 5%;
+}
+ol {
+    list-style-type: circle;
 }
 
 ul {

@@ -13,3 +13,6 @@
 
 ## Dominka is already sharing her skills with the world for the past few years, and the pandemic has inspired her to a more creative way of teaching so she has been using Facebook to meet her students and promote her skills, as well as Instagram, but the actual classes are being arranged through Zoom Meeting application which you get a link when the class is booked.
 
+## August, 21, 2021 - I wanted to put the "back to top button" so I found my solution on https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/ 
+
+
