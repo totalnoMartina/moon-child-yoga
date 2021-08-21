@@ -26,7 +26,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 50px;
-    padding: 10%;
+    padding: 30px;
 }
 
 #logo {
@@ -37,11 +37,12 @@ img {
     width: auto;
     max-width: 350px;
     max-height: 400px;
-    float: left;
+    
 }
 
 #logo {
     border-radius: 50%;
+    float: left;
 }
 
 #intro {
@@ -99,6 +100,7 @@ article {
     background-color: #331f2f;
     letter-spacing: 0.4em;
     border-radius: 35%;
+    margin: auto;
 }
 
 .link-list:hover {
