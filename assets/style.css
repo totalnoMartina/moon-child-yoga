@@ -97,7 +97,7 @@ article {
 
 .link-list {
     color: #eaeaea;
-    background-color: #331f2f;
+    background-color: #9f6eaf;
     letter-spacing: 0.4em;
     border-radius: 35%;
     margin: auto;
@@ -142,7 +142,7 @@ input[type="submit"] {
     height: 9em;
   }
 
-  input[type="submit"]:hover {
+input[type="submit"]:hover {
       background-color: #331f2f;
       color: #eaeaea;
   }
@@ -152,7 +152,7 @@ footer {
     text-transform: uppercase;
     position: fixed;
     height: 50px;
-    background-color: #c00bae;
+    background-color: #c01bb0;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -161,7 +161,7 @@ footer {
 }
 
 .link {
-    color: #3d2645;
+    color: #20051a;
     margin-top: 50%;
 }
 
