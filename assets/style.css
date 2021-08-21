@@ -24,7 +24,12 @@ body {
     padding: 0.4em;
 }
 
+#logo {
+    padding: 10%;
+}
+
 img {
+    width: auto;
     max-width: 350px;
     max-height: 400px;
     float: left;
@@ -49,6 +54,7 @@ img {
     max-width: 350px;
     border-radius: 50%;
     float: right;
+    padding: 5%;
 }
 
 ul {
@@ -99,7 +105,7 @@ article {
 
 form {
     display: inline-block;
-    width: 400px;
+    width: 30%;
     clear: both;
     
 }
