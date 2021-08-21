@@ -98,8 +98,15 @@ article {
 /* form */ 
 
 form {
-    padding: 0.4em;
+    display: inline-block;
+    width: 400px;
+    clear: both;
     
+}
+
+form input {
+    width: 100%;
+    clear: both;
 }
 
 .button {
@@ -114,14 +121,13 @@ footer {
     text-transform: uppercase;
     position: fixed;
     height: 50px;
-    background-color: #a96da3;
+    background-color: #c00bae;
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
     padding: 0.3em;
 }
-
 
 .link {
     color: #3d2645;
