@@ -1,20 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,700&display=swap');
 
 /* global styles */
 
 * {
     margin: 0;
-    font-family: 'Urbanist', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
 
 }
 
 h1 {
-    letter-spacing: 0.3em;
-    padding: 50px;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    display: flex;
+    justify-content: space-between;
+    padding: 35px;
+    text-align: left;
 }
 
 body {
-    font-size: 2em;
+    font-size: 35px;
     color: #331f2f;
     text-align: center;
     background-color: #9f6eaf;
@@ -22,7 +26,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 50px;
-    padding: 0.4em;
+    padding: 10%;
 }
 
 #logo {
@@ -95,7 +99,6 @@ article {
     background-color: #331f2f;
     letter-spacing: 0.4em;
     border-radius: 35%;
-    display: inline;
 }
 
 .link-list:hover {
@@ -108,9 +111,11 @@ article {
 /* form */ 
 
 form {
+    text-align: center;
     display: inline-block;
     width: 30%;
     clear: both;
+    padding: 10%;
     
 }
 
@@ -119,12 +124,25 @@ form input {
     clear: both;
 }
 
-.button {
-    border: 20px solid;
-    border-radius: 40%;
-    border-color: #331f2f;
-    
+.details {
+    text-align: center;
+    width: 230px;
+    height: 30px;
 }
+
+input[type="submit"] {
+    border: 20px solid;
+    border-radius: 50%;
+    border-color: #331f2f;
+    padding: 15px;
+    width: 9em;
+    height: 9em;
+  }
+
+  input[type="submit"]:hover {
+      background-color: #331f2f;
+      color: #eaeaea;
+  }
 
 footer {
     color: #fffefe;
