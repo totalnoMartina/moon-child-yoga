@@ -13,6 +13,12 @@
 
 ## Dominka is already sharing her skills with the world for the past few years, and the pandemic has inspired her to a more creative way of teaching so she has been using Facebook to meet her students and promote her skills, as well as Instagram, but the actual classes are being arranged through Zoom Meeting application which you get a link when the class is booked.
 
+
+# Relevant Steps taken during the building of website
+
 ## August, 21, 2021 - I wanted to put the "back to top button" so I found my solution on https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/ 
+
+
+## August, 22, 2021 - Bringing captions around photos is one of the ideas, I decided to put tiles on all of them and used google search to help me with thinking of which is the best way while I am still about will that really be neccesary or helpful.
 
 
