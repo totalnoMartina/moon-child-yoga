@@ -119,6 +119,11 @@ article {
     opacity: 85%;
 }
 
+#signature {
+    font-style: italic;
+    margin: 25px;
+}
+
 /* form  styles*/ 
 
 form {
