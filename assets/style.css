@@ -9,12 +9,17 @@
 }
 
 h1 {
-    font-weight: bold;
-    letter-spacing: 0.2em;
+    font-weight: bolder;
+    letter-spacing: 1px;
     display: flex;
     justify-content: space-between;
     padding: 35px;
     text-align: left;
+}
+
+.main-name {
+    height: 80px;
+    margin: 45px;
 }
 
 body {
@@ -30,7 +35,7 @@ body {
 }
 
 #logo {
-    padding: 10%;
+    padding: 10px;
 }
 
 img {
@@ -60,7 +65,7 @@ img {
     max-width: 350px;
     border-radius: 50%;
     float: right;
-    padding: 5%;
+    padding: 10%;
 }
 ol {
     list-style-type: circle;
@@ -101,7 +106,7 @@ article {
     letter-spacing: 0.4em;
     border-radius: 35%;
     margin: auto;
-    text-align: right;
+  
 }
 
 .link-list:hover {
@@ -148,10 +153,11 @@ input[type="submit"]:hover {
   }
 
 footer {
+    word-spacing: 1px;
     color: #fffefe;
-    text-transform: uppercase;
+    letter-spacing: 2px;
     position: fixed;
-    height: 50px;
+    height: 40px;
     background-color: #c01bb0;
     bottom: 0px;
     left: 0px;
