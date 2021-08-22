@@ -97,7 +97,8 @@ section img {
 }
 
 article {
-    float: left;
+    float: none;
+    margin: 20%;
 }
 
 .link-list {
