@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 
 /* global styles */
+/* main page styles */
+
 
 * {
     margin: 0;
@@ -117,15 +119,14 @@ article {
     opacity: 85%;
 }
 
-/* form */ 
+/* form  styles*/ 
 
 form {
     text-align: center;
     display: inline-block;
     width: 30%;
     clear: both;
-    padding: 10%;
-    
+    padding: 10%; 
 }
 
 form input {
@@ -153,6 +154,18 @@ input[type="submit"]:hover {
       color: #eaeaea;
   }
 
+  /* gallery styles */
+
+#about-me {
+    text-align: left;
+}
+
+.about {
+    margin-top: 10%;
+    padding: 0.6em;
+    text-align: left;
+}
+
 footer {
     word-spacing: 1px;
     color: #fffefe;
@@ -170,14 +183,4 @@ footer {
 .link {
     color: #20051a;
     margin-top: 50%;
-}
-
-#about-me {
-    text-align: left;
-}
-
-.about {
-    margin-top: 10%;
-    padding: 0.6em;
-    text-align: left;
 }
