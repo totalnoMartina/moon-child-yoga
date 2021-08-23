@@ -172,7 +172,7 @@ input[type="submit"]:hover {
 }
 
 footer {
-    word-spacing: 1px;
+    word-spacing: 5px;
     color: #fffefe;
     letter-spacing: 2px;
     position: fixed;
