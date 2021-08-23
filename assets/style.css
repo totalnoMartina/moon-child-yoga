@@ -21,11 +21,12 @@ h1 {
 
 .main-name {
     height: 80px;
-    margin: 45px;
+    margin: 60px;
+    font-size: 90px;
 }
 
 body {
-    font-size: 35px;
+    font-size: 30px;
     color: #11010e;
     text-align: center;
     background-color: #9f6eaf;
@@ -58,13 +59,6 @@ img {
 #home-page-photos {
     border-style: groove;
     border-width: 10px;
-}
-
-#cert-image {
-    max-width: 350px;
-    margin: 15%;
-    padding: 5%;
-
 }
 
 #certified {
@@ -135,12 +129,13 @@ form {
     display: inline-block;
     width: 30%;
     clear: both;
-    padding: 10%; 
+    padding: 20%;
 }
 
 form input {
     width: 100%;
     clear: both;
+    margin-bottom: 8%;
 }
 
 .details {
