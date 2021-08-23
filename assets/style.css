@@ -29,7 +29,6 @@ body {
     color: #11010e;
     text-align: center;
     background-color: #9f6eaf;
-    background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 50px;
@@ -54,6 +53,11 @@ img {
 
 #intro {
     text-align: left;
+}
+
+#home-page-photos {
+    border-style: groove;
+    border-width: 10px;
 }
 
 #cert-image {
