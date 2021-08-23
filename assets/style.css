@@ -7,7 +7,6 @@
 * {
     margin: 0;
     font-family: 'Playfair Display', serif;
-
 }
 
 h1 {
@@ -76,7 +75,7 @@ ul {
 }
 
 .active-now {
-    color: #73a580;
+    text-decoration-color: #331f2f;
     border-radius: 30%;
 }
 
@@ -106,8 +105,6 @@ article {
     background-color: #9f6eaf;
     letter-spacing: 0.4em;
     border-radius: 35%;
-    margin: auto;
-  
 }
 
 .link-list:hover {
@@ -123,6 +120,9 @@ article {
 }
 
 /* form  styles*/ 
+.booking-main {
+    font-weight: 1000;
+}
 
 form {
     text-align: center;
