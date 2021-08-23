@@ -12,7 +12,7 @@
 
 h1 {
     font-weight: bolder;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     display: flex;
     justify-content: space-between;
     padding: 35px;
@@ -68,7 +68,7 @@ img {
     padding: 10%;
 }
 ol {
-    list-style-type: circle;
+    list-style-type: disc;
 }
 
 ul {
@@ -85,7 +85,7 @@ ul {
     border-radius: 45%;
 }
 
-section img {
+section > img {
     max-width: 350px;
     padding: 10%;
 }
@@ -161,13 +161,14 @@ input[type="submit"]:hover {
   /* gallery styles */
 
 #about-me {
-    text-align: left;
+    text-align: right;
+    padding: 15%;
 }
 
 .about {
     margin-top: 10%;
     padding: 0.6em;
-    text-align: left;
+    text-align: center;
 }
 
 footer {
