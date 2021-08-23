@@ -1,4 +1,4 @@
-# A webpage about helping people discover another apporach to Yoga, this Yoga teacher has found inspiration in yoga and implementing it to improve  body, mind and soul #
+# Moon Child Yoga - A website to bring more well-being into lives of people of all ages and abilities #
 
 ## Description of purpose of the webpage 
 
