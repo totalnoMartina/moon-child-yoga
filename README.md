@@ -1,6 +1,6 @@
 # Moon Child Yoga - A website to bring more well-being into lives of people of all ages and abilities #
 
-## Description of purpose of the webpage 
+## Description
 
 ## This website is another opportunity for a teacher like Dominika to share her approach, attitude, knowledge and practice of yoga with the world. Through this webpage, we are able to see an individual travel many parts of the world in order to gain skills neccesary to help keep people healthy and happy. We can use this webpage for getting to know a bit about the personality of Dominka, her way of gaining skills like different types of massage, yoga teacher trainings of diferent types of yoga, meditation and energy work practices. We can book different types of classes which all have the same price.
 ## There are also links to more information about the teachers who trained Dominika and links to diferent types of yoga that are available on www.wikipedia.com .
