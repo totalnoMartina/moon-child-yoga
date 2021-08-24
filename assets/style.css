@@ -126,22 +126,29 @@ form > h1 {
     width: 60%;
 }
 
-form {
-    display: inline-block;
-    text-align: center;
-    margin: 10%;
-    width: 60%;
-    clear: both;
-    text-justify: center;
-}
-
 .select {
     text-decoration: underline;
 }
 
-form input[type="date"] {
+form {
+    display: inline-block;
     text-align: center;
-    width: 50%;
+    width: 60%;
+    content: normal;
+    clear: both;
+    padding: 5%;
+}
+
+form > label {
+    padding: 25%;
+}
+
+.select-date {
+    text-decoration: underline;
+}
+
+form input[type="date"] {
+    width: 60%;
     clear: both;
     margin-bottom: 8%;
 }
@@ -150,8 +157,6 @@ form input[type="date"] {
     text-align: center;
     width: 230px;
     height: 30px;
-    clear: both;
-    margin: 15px;
 }
 
 input[type="submit"] {
@@ -161,7 +166,6 @@ input[type="submit"] {
     padding: 15px;
     width: 9em;
     height: 9em;
-    margin-top: 10%;
   }
 
 input[type="submit"]:hover {
