@@ -75,8 +75,7 @@ ul {
 }
 
 .active-now {
-    text-decoration-color: #331f2f;
-    border-radius: 30%;
+    text-decoration-color:  #331f2f;
 }
 
 #home-image {
@@ -140,7 +139,7 @@ form {
 }
 
 form > label {
-    padding: 25%;
+    margin: 25%;
 }
 
 .select-date {
@@ -201,6 +200,7 @@ footer {
 }
 
 .link {
-    color: #20051a;
+    color: #330429;
     margin-top: 50%;
+    word-spacing: 15%;
 }
