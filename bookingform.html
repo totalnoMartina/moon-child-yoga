@@ -21,13 +21,13 @@
     </nav>
     <form>
         <img src="/assets/images/virtual-reality.jpg" alt="poster of peaceful meditative pose of yoga teacher"> 
-        <h1 class="booking-main">Book Here!</h1>
+        <h1>Book Here!</h1>
         <br>
         <label for="name">First Name</label>
         <input type="text" id="name" class="details" required>
         <br>
-        <label for="l_name">Last Name</label>
-        <input type="text" id="l_name" class="details" required>
+        <label for="last_name">Last Name</label>
+        <input type="text" id="last_name" class="details" required>
         <br>
         <label for="email">Your E-mail</label>
         <input type="email" id="email" class="details" required>
@@ -37,11 +37,12 @@
         <option>Private Massage(Thai / Sports)(40 Euro)</option>
         <input type="checkbox">
         <option>Private Group Yoga Class in a yoga studio(15 Euro)</option>
+        <p>(at the moment happening in Poland)</p>
         <input type="checkbox">
         <option>Private Online Yoga Class(15 Euro)</option>
         <input type="checkbox" required>
         <br>
-        <option>Choose a type of Yoga class</option>
+        <option class="select">Select a type of Yoga class</option>
         <option>Hatha Yoga</option>
         <p>(for building strenght)</p>
         <input type="checkbox">
@@ -60,17 +61,17 @@
         <option>Yoga Nidra</option>
         <p>(calming and grounding type of yoga followed by meditation)</p>
         <input type="checkbox">
-        <label for="date">Select preferred date and time</label>
+        <br>
+        <label for="date" class="select">Select preferred date</label>
         <input type="date" id="date">
         <div>
         The payments link is right here
         <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.paypal.me%2Fmikolinaaa%3Ffbclid%3DIwAR0Ra7p4_H_baBzUzgUqprf0XLgTT_2YCnX1svD5dEgbD1kSzWXA3DctBvU&h=AT1JVr_vOrBNDmpZ3gvANFukAKtlgJlZnrpwnJvnU-SKKl5rm6VHAZW9uZLEmkP9MTzuNPXoOYiotmlFLmLAxP0nY1mqUatT-pQhhZ4tucnQXQK6A7xbyv40c_0no69t" target="_blank"><i class="fab fa-paypal"></i></a>
         (opens in a new tab)
         </div>
-        <div>And clicking the "Submit" button you booked your class!
-            Details will be sent to your provided e-mail address
+        <div>Clicking on the "Submit", your class is now booked!
+        Please check Your E-mail for the confirmation and further arrangements
         </div>
-        <br>
         <input type="submit" class="button" required>
     </form>
 <footer>

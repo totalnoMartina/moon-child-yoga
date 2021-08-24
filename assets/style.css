@@ -41,8 +41,8 @@ body {
 
 img {
     width: auto;
-    max-width: 350px;
-    max-height: 400px;
+    max-width: 300px;
+    max-height: 350px;
     
 }
 
@@ -120,20 +120,28 @@ article {
 }
 
 /* form  styles*/ 
-.booking-main {
+form > h1 {
     font-weight: 1000;
+    margin-left: 20%;
+    width: 60%;
 }
 
 form {
-    text-align: center;
     display: inline-block;
-    width: 30%;
+    text-align: center;
+    margin: 10%;
+    width: 60%;
     clear: both;
-    padding: 20%;
+    text-justify: center;
 }
 
-form input {
-    width: 100%;
+.select {
+    text-decoration: underline;
+}
+
+form input[type="date"] {
+    text-align: center;
+    width: 50%;
     clear: both;
     margin-bottom: 8%;
 }
@@ -142,6 +150,8 @@ form input {
     text-align: center;
     width: 230px;
     height: 30px;
+    clear: both;
+    margin: 15px;
 }
 
 input[type="submit"] {
@@ -151,6 +161,7 @@ input[type="submit"] {
     padding: 15px;
     width: 9em;
     height: 9em;
+    margin-top: 10%;
   }
 
 input[type="submit"]:hover {
