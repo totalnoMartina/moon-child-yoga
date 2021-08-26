@@ -193,8 +193,11 @@ input[type="submit"]:hover {
     padding: 0.6em;
     text-align: center;
 }
+#video {
+    width: 300px;
+}
 
-
+/* footer styles */ 
 
 footer {
     font-size: 35px;
