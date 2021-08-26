@@ -24,7 +24,7 @@ h1 {
 }
 
 body {
-    font-size: 25px;
+    font-size: 24px;
     color: #11010e;
     text-align: center;
     background-color: #9f6eaf;
@@ -59,6 +59,8 @@ img {
 }
 
 #home-page-photos {
+    text-align: center;
+    max-width: 260px;
     border-style: groove;
     border-width: 10px;
 }
@@ -67,7 +69,7 @@ img {
     max-width: 300px;
     border-radius: 50%;
     float: right;
-    padding: 10%;
+    padding: 25px;
 }
 ol {
     list-style-type: disc;
@@ -82,12 +84,12 @@ ul {
 }
 
 #home-image {
-    max-width: 300px;
+    max-width: 40px;
     border-radius: 45%;
 }
 
 section > img {
-    max-width: 350px;
+    max-width: 300px;
     padding: 10%;
 }
 
@@ -179,6 +181,7 @@ input[type="submit"]:hover {
   }
 
   /* gallery styles */
+
 #about-me {
     text-align: right;
     padding: 15%;
@@ -190,7 +193,10 @@ input[type="submit"]:hover {
     text-align: center;
 }
 
+
+
 footer {
+    font-size: 35px;
     word-spacing: 5px;
     color: #fffefe;
     letter-spacing: 2px;
