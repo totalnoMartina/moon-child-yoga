@@ -25,3 +25,5 @@
 
 ## Responsive Layout
 # LinkedIn Course
+
+# Wordproofing text with a skilled proof-reader from Croatia

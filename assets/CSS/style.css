@@ -53,7 +53,7 @@ nav {
 }
 
 #intro {
-    text-align: left;
+    text-align: center;
 }
 
 #home-page-photos {
@@ -97,6 +97,7 @@ section > img {
 }
 
 article {
+    text-align: center;
     margin: 20%;
 }
 
