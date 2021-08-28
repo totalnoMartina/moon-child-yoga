@@ -26,7 +26,7 @@ header > h1 {
 }
 
 body {
-    font-size: 24px;
+    font-size: 22px;
     color: #11010e;
     text-align: center;
     background-color: #9f6eaf;
@@ -41,7 +41,8 @@ img {
 #logo {
     position: relative;
     top: 100px;
-    right: 400px;
+    left: -300px;
+    margin: auto;
     border-radius: 50%;
 }
 
@@ -215,5 +216,21 @@ footer {
     word-spacing: 15%;
 }
 
-@media screen and (max-width: 400px) {
+@media (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+    header > h1 {
+        font-size: 55px;
+        text-align: center;
+        position: relative;
+        right: auto;
+    }
+    logo {
+        position: relative;
+        top: 50px;
+        right: 300px;
+        orientation: portrait;
+    }
+
 }
