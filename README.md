@@ -23,4 +23,5 @@
 
 ## August, 22, 2021 - Bringing captions around photos is one of the ideas, I decided to put tiles on all of them and used google search to help me with thinking of which is the best way while I am still about will that really be neccesary or helpful.
 
-
+## Responsive Layout
+# LinkedIn Course
