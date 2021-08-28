@@ -32,6 +32,9 @@ body {
     background-color: #9f6eaf;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 70px;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 img {
     width: auto;
@@ -53,11 +56,11 @@ nav {
 }
 
 #intro {
-    text-align: center;
+    text-align: right;
 }
 
 #home-page-photos {
-    text-align: center;
+    text-align: right;
     max-width: 260px;
     border-style: groove;
     border-width: 10px;
@@ -97,7 +100,7 @@ section > img {
 }
 
 article {
-    text-align: center;
+    text-align: right;
     margin: 20%;
 }
 
@@ -118,17 +121,20 @@ article {
 
 #signature {
     font-style: italic;
-    margin: 25px;
+    margin: 20px;
 }
 
 /* form  styles*/ 
 form > h1 {
     font-size: 65px;
-    margin-left: 200px;
     width: 35px;
+    position: relative;
+    left: 250px;
 }
 #poster-book {
-    padding: 45px;
+    position: relative;
+    bottom: 90px;
+    left: 200px;
 }
 .select {
     text-decoration: underline;
@@ -138,7 +144,6 @@ form {
     display: block;
     text-align: center;
     width: 50%;
-    clear: both;
     margin: 15px;
 }
 
@@ -167,7 +172,6 @@ input[type="submit"] {
     border: 20px solid;
     border-radius: 50%;
     border-color: #331f2f;
-    padding: 15px;
     width: 9em;
     height: 9em;
   }
@@ -178,20 +182,19 @@ input[type="submit"]:hover {
   }
 
   /* gallery styles */
-
-
 #about-me {
-    text-align: right;
-    padding: 15%;
+    text-align: left;
+    position: relative;
+    left: 200px;
+    width: 800px;
 }
-
 .about {
     margin-top: 10%;
     padding: 0.6em;
     text-align: center;
 }
-#video {
-    width: 300px;
+.about-photos {
+    display: flexbox;
 }
 
 /* footer styles */ 
@@ -202,7 +205,6 @@ footer {
     color: #fffefe;
     letter-spacing: 2px;
     position: fixed;
-    height: 40px;
     background-color: #c01bb0;
     bottom: 0px;
     left: 0px;
@@ -213,7 +215,6 @@ footer {
 
 .link {
     color: #330429;
-    margin-top: 50%;
     word-spacing: 15%;
 }
 
