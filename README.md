@@ -30,3 +30,5 @@
 # Wordproofing text with a skilled proof-reader from Croatia
 
 ## Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page 
+
+# Playing with grid for the responsive-friendly gallery, arranged new border image for booking form image

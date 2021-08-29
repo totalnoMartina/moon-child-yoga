@@ -42,26 +42,26 @@ img {
     max-height: 350px;
 }
 #logo {
-    position: relative;
-    top: 100px;
-    left: -300px;
+    position: absolute;
+    bottom: 150px;
+    left: 100px;
     margin: auto;
     border-radius: 50%;
 }
 
 nav {
-    position: relative;
-    left: 200px;
+    position: absolute;
+    left: 500px;
     bottom: 150px;
 }
 
 #intro {
-    text-align: right;
+    text-align: left;
 }
 
 #home-page-photos {
-    text-align: right;
     max-width: 260px;
+    padding: 8%;
     border-style: groove;
     border-width: 10px;
 }
@@ -70,8 +70,8 @@ nav {
     max-width: 300px;
     border-radius: 50%;
     position: relative;
-    left: 400px;
-    bottom: 50px;
+    left: 450px;
+    top: 450px;
 }
 ol {
     list-style-type: disc;
@@ -88,11 +88,6 @@ ul {
 #home-image {
     max-width: 300px;
     border-radius: 45%;
-}
-
-section > img {
-    max-width: 300px;
-    padding: 8%;
 }
 
 #teachers {
@@ -132,19 +127,25 @@ form > h1 {
     left: 250px;
 }
 #poster-book {
-    position: relative;
-    bottom: 90px;
-    left: 200px;
+    position: absolute;
+    top: 550px;
+    right: 100px;
+    padding: 5px;
+    border: 30px solid transparent;
+    border-image: url(/assets/images/logos/moon-border.png) 20% stretch;
+    border-width: 120px;
 }
 .select {
     text-decoration: underline;
 }
 
 form {
-    display: block;
+    position: relative;
     text-align: center;
+    top: 550px;
     width: 50%;
     margin: 15px;
+    padding-bottom: 150px;
 }
 
 form > label {
@@ -182,10 +183,20 @@ input[type="submit"]:hover {
   }
 
   /* gallery styles */
-#about-me {
-    text-align: left;
+.gallery {
     position: relative;
-    left: 200px;
+    top: 500px;
+    left: 300px;
+    display: grid;
+    grid-template-columns: 350px 350px;
+    grid-gap: 150px;
+}
+
+#about-me {
+    position: relative;
+    left: 250px;
+    top: 550px;
+    text-align: left;
     width: 800px;
 }
 .about {
@@ -194,9 +205,13 @@ input[type="submit"]:hover {
     text-align: center;
 }
 .about-photos {
-    display: flexbox;
+    display: grid;
+    grid-template-columns: 350px 350px;
+    grid-gap: 20px;
 }
-
+.padding-gallery {
+    padding-bottom: 80px;
+}
 /* footer styles */ 
 
 footer {
@@ -210,7 +225,7 @@ footer {
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
-    padding: 0.5em;
+    padding: 0.2em;
 }
 
 .link {
@@ -228,11 +243,8 @@ footer {
         position: relative;
         right: auto;
     }
-    logo {
-        position: relative;
-        top: 50px;
-        right: 300px;
-        orientation: portrait;
+    #logo {
+      max-width: 160px;
     }
 
 }
