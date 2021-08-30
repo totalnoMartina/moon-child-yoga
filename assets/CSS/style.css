@@ -36,12 +36,9 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
 }
-img {
-    width: auto;
+#logo {
     max-width: 300px;
     max-height: 350px;
-}
-#logo {
     position: absolute;
     bottom: 150px;
     left: 100px;
@@ -57,9 +54,10 @@ nav {
 
 #intro {
     text-align: left;
+    max-width: 600px;
 }
 
-#home-page-photos {
+.home-page-photos {
     max-width: 260px;
     padding: 8%;
     border-style: groove;
@@ -79,6 +77,13 @@ ol {
 
 ul {
     list-style-type: none;
+}
+body > section {
+    width: 800px;
+    position: relative;
+    left: 200px;
+    top: 400px;
+    padding-bottom: 80px;
 }
 
 .active-now {
@@ -127,6 +132,8 @@ form > h1 {
     left: 250px;
 }
 #poster-book {
+    max-width: 300px;
+    max-height: 350px;
     position: absolute;
     top: 550px;
     right: 100px;
@@ -183,19 +190,29 @@ input[type="submit"]:hover {
   }
 
   /* gallery styles */
-.gallery {
+section > h2 {
+    font-size: 55px;
     position: relative;
-    top: 500px;
-    left: 300px;
-    display: grid;
-    grid-template-columns: 350px 350px;
-    grid-gap: 150px;
+    top: 100px;
+    left: 60px;
+    border: 10px solid transparent;
+    border-image: url(/assets/images/logos/moon-border.png) 20% stretch;
+    border-width: 50px;
+}
+.gallery > img {
+    position: relative;
+    top: 200px;
+    max-width: 350px;
+    max-height: 350px;
+    display: flexbox;
+    margin: 22px;
+    justify-content: space-evenly;
 }
 
 #about-me {
     position: relative;
-    left: 250px;
-    top: 550px;
+    left: 50px;
+    top: 190px;
     text-align: left;
     width: 800px;
 }
@@ -204,10 +221,9 @@ input[type="submit"]:hover {
     padding: 0.6em;
     text-align: center;
 }
-.about-photos {
-    display: grid;
-    grid-template-columns: 350px 350px;
-    grid-gap: 20px;
+.about-photos > img {
+    max-width: 350px;
+    max-height: 350px;
 }
 .padding-gallery {
     padding-bottom: 80px;
@@ -230,9 +246,9 @@ footer {
 
 .link {
     color: #330429;
-    word-spacing: 15%;
+    word-spacing: 10px;
 }
-
+/* media query for maximum of 600px */
 @media (max-width: 600px) {
     body {
         font-size: 16px;
@@ -259,16 +275,24 @@ footer {
     .link-list {
         font-size: 18px;
     }
-    footer {
-        font-size: 18px;
-    }
     .language {
         font-size: 18px;
         width: 130px;
     }
+
     .gallery {
         position:relative;
         left: auto;
+    }
+    body > section {
+        max-width: 320px;
+        position: relative;
+        top: 20px;
+        left: 30px;
+        text-align: center;
+    }
+    footer {
+        font-size: 18px;
     }
     
 

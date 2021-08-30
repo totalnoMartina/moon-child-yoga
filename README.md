@@ -32,3 +32,9 @@
 ## Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page 
 
 # Playing with grid for the responsive-friendly gallery, arranged new border image for booking form image
+
+
+## Ran CSS through validator and after fixing percentage unit on one of font-size properties it showed no warnings or issues
+
+## Ran  
+
