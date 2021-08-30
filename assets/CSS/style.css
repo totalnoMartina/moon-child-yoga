@@ -54,7 +54,7 @@ nav {
 
 #intro {
     text-align: left;
-    max-width: 600px;
+    max-width: 750px;
 }
 
 .home-page-photos {
@@ -252,9 +252,10 @@ footer {
 @media (max-width: 600px) {
     body {
         font-size: 16px;
+        width: 320px;
     }
     header > h1 {
-        font-size: 55px;
+        font-size: 45px;
         text-align: center;
         position: relative;
         bottom: 20px;
@@ -265,6 +266,21 @@ footer {
         right: auto;
         top: 30px;
         max-width: 200px;
+    }
+    #certified {
+        max-width: 100px;
+        position: fixed;
+        right: 100px;
+        top: 40px;
+    }
+    #intro {
+        position: relative;
+        top: 350px;
+        max-width: 320px;
+    }
+    #teachers {
+        position: relative;
+        top: 300px;
     }
     nav {
         position: relative;
