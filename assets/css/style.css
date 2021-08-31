@@ -205,7 +205,7 @@ section > h2 {
     top: 200px;
     max-width: 350px;
     max-height: 350px;
-    display: flexbox;
+    flex: auto;
     margin: 22px;
     justify-content: space-evenly;
 }
