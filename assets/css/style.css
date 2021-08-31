@@ -24,7 +24,6 @@ header > h1 {
 }
 
 body {
-    font-size: 22px;
     color: #11010e;
     background-color: #9f6eaf;
     background-repeat: no-repeat;
@@ -34,15 +33,14 @@ body {
     overflow-y: scroll;
 }
 #logo {
-    max-width: 300px;
     max-height: 350px;
-    position: absolute;
     bottom: 150px;
     left: 100px;
     margin: auto;
     border-radius: 50%;
 }
 #intro {
+    font-size: 22px;
     text-align: right;
     max-width: 750px;
     padding-top: 200px;
@@ -83,6 +81,7 @@ body > section {
 }
 
 #teachers {
+    font-size: 22px;
     text-align: right;
     padding-left: 180px;
 }
@@ -121,11 +120,9 @@ form > h1 {
 }
 #poster-book {
     max-width: 300px;
-    max-height: 350px;
-    position: absolute;
-    top: 550px;
-    right: 100px;
-    padding: 5px;
+    max-height: 300px;
+    float: right;
+    padding: 7px;
     border: 30px solid transparent;
     border-image: url(/assets/images/logos/moon-border.png) 20% stretch;
     border-width: 120px;
@@ -135,8 +132,9 @@ form > h1 {
 }
 
 form {
+    font-size: 20px;
     text-align: center;
-    width: 350px;
+    max-width: 350px;
     padding: 200px 0px 30px 200px;
 }
 
@@ -176,10 +174,9 @@ input[type="submit"]:hover {
 
   /* gallery styles */
 section > h2 {
+    float: right;
     font-size: 55px;
-    position: relative;
-    top: 100px;
-    left: 60px;
+    text-align: center;
     border: 10px solid transparent;
     border-image: url(/assets/images/logos/moon-border.png) 20% stretch;
     border-width: 50px;
@@ -187,14 +184,14 @@ section > h2 {
 .gallery > img {
     position: relative;
     top: 200px;
+    left: 200px;
     max-width: 350px;
     max-height: 350px;
-    flex: auto;
-    margin: 22px;
-    justify-content: space-evenly;
+    padding: 22px;
 }
 
 #about-me {
+    font-size: 22px;
     position: relative;
     left: 50px;
     top: 190px;
@@ -241,11 +238,8 @@ footer {
         width: 320px;
     }
     header > h1 {
-        font-size: 45px;
+        font-size: 40px;
         text-align: center;
-        position: relative;
-        bottom: 20px;
-        left: 50px;
     }
     #logo {
         position: absolute;
@@ -264,8 +258,8 @@ footer {
     }
     nav {
         position: absolute;
-        top: 150px;
-        left: auto;
+        top: 120px;
+        right: 110px;
         max-width: 340px;
     }
     .link-list {
@@ -275,38 +269,55 @@ footer {
         margin: 10px;
     }
     .language {
-        font-size: 18px;
-        width: 110px;
+        font-size: 14px;
+        width: 90px;
+        padding-right: 15px;
+    }
+    #certified {
+        max-width: 30%;
+    }
+    #poster-book {
+        float: none;
+        border: none;
+        padding: 50px 0px 0px 50px;
+    }
+    form {
+        max-width: 160px;
+        font-size: 13px;
+        text-align: center;
+        padding: 5px 5px 5px 10px;
+    }
+    input {
+        max-width: 100px;
+        padding: 0px;
+    }
+    form > h1 {
+        font-size: 20px;
+        padding-top: 25px;
+        padding-right: 150px;
     }
     .gallery {
         position:relative;
         left: 150px;
-        top: 100px;
+        top: 50px;
     }
     .gallery > img {
         max-width: 60%;
         position: relative;
-        bottom: 15px;
+        bottom: auto;
+        left: auto;
     }
     body > section {
-        max-width: 320px;
-        position: relative;
-        top: 20px;
-        left: 30px;
+        max-width: 250px;
+        padding-top: 130px;
         text-align: center;
     }
     section > h2 {
         position: relative;
         border: none;
-        left: 30px;
-        bottom: 250px;
+        left: 35px;
+        bottom: 60px;
         font-size: 18px;
-    }
-    #poster-book {
-        max-width: 60%;
-        border: none;
-        position: relative;
-        left: 20px;
     }
     #about-me {
         max-width: 320px;
