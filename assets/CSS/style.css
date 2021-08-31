@@ -127,9 +127,9 @@ article {
 /* form  styles*/ 
 form > h1 {
     font-size: 65px;
-    width: 35px;
+    max-width: 35px;
     position: relative;
-    left: 250px;
+    left: 100px;
 }
 #poster-book {
     max-width: 300px;
@@ -150,7 +150,8 @@ form {
     position: relative;
     text-align: center;
     top: 550px;
-    width: 50%;
+    left: 130px;
+    width: 350px;
     margin: 15px;
     padding-bottom: 150px;
 }
@@ -214,7 +215,7 @@ section > h2 {
     left: 50px;
     top: 190px;
     text-align: left;
-    width: 800px;
+    max-width: 800px;
 }
 .about {
     margin-top: 10%;
@@ -259,7 +260,7 @@ footer {
         text-align: center;
         position: relative;
         bottom: 20px;
-        right: auto;
+        left: 50px;
     }
     #logo {
         position: absolute;
@@ -289,16 +290,32 @@ footer {
         max-width: 340px;
     }
     .link-list {
+        position: relative;
+        bottom: 5px;
         font-size: 18px;
+        margin: 10px;
     }
     .language {
         font-size: 18px;
-        width: 130px;
+        width: 110px;
     }
-
+    form > h1 {
+        position: relative;
+        left: 40px;
+    }
+    form {
+        position: relative;
+        left: 25px;
+    }
     .gallery {
         position:relative;
-        left: auto;
+        left: 50px;
+        top: 100px;
+    }
+    .gallery > img {
+        max-width: 60%;
+        position: relative;
+        bottom: 15px;
     }
     body > section {
         max-width: 320px;
@@ -306,6 +323,25 @@ footer {
         top: 20px;
         left: 30px;
         text-align: center;
+    }
+    section > h2 {
+        position: relative;
+        border: none;
+        left: 30px;
+        bottom: 250px;
+        font-size: 18px;
+    }
+    #poster-book {
+        max-width: 60%;
+        border: none;
+        position: relative;
+        left: 20px;
+    }
+    #about-me {
+        max-width: 320px;
+        text-align: center;
+        position: relative;
+        top: 300px;
     }
     footer {
         font-size: 18px;
