@@ -8,15 +8,13 @@
     margin: 0;
     font-family: 'Playfair Display', serif;
 }
-
+header {
+    text-align: center;
+}
 header > h1 {
-    height: 80px;
+    text-align: center;
     font-size: 110px;
     letter-spacing: 2px;
-    position: relative;
-    top: 30px;
-    right: 150px;
-    margin: auto;
 }
 .language {
     background-color: #c01bb0;
@@ -28,7 +26,6 @@ header > h1 {
 body {
     font-size: 22px;
     color: #11010e;
-    text-align: center;
     background-color: #9f6eaf;
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,16 +42,11 @@ body {
     margin: auto;
     border-radius: 50%;
 }
-
-nav {
-    position: absolute;
-    left: 500px;
-    bottom: 150px;
-}
-
 #intro {
-    text-align: left;
+    text-align: right;
     max-width: 750px;
+    padding-top: 200px;
+    padding-left: 150px;
 }
 
 .home-page-photos {
@@ -67,9 +59,7 @@ nav {
 #certified {
     max-width: 300px;
     border-radius: 50%;
-    position: relative;
-    left: 450px;
-    top: 450px;
+    float: right;
 }
 ol {
     list-style-type: disc;
@@ -80,9 +70,6 @@ ul {
 }
 body > section {
     width: 800px;
-    position: relative;
-    left: 200px;
-    top: 400px;
     padding-bottom: 80px;
 }
 
@@ -97,6 +84,7 @@ body > section {
 
 #teachers {
     text-align: right;
+    padding-left: 180px;
 }
 
 article {
@@ -147,13 +135,9 @@ form > h1 {
 }
 
 form {
-    position: relative;
     text-align: center;
-    top: 550px;
-    left: 130px;
     width: 350px;
-    margin: 15px;
-    padding-bottom: 150px;
+    padding: 200px 0px 30px 200px;
 }
 
 form > label {
@@ -232,6 +216,7 @@ section > h2 {
 /* footer styles */ 
 
 footer {
+    text-align: center;
     font-size: 35px;
     word-spacing: 5px;
     color: #fffefe;
@@ -268,12 +253,6 @@ footer {
         top: 30px;
         max-width: 200px;
     }
-    #certified {
-        max-width: 100px;
-        position: fixed;
-        right: 100px;
-        top: 40px;
-    }
     #intro {
         position: relative;
         top: 350px;
@@ -284,8 +263,8 @@ footer {
         top: 300px;
     }
     nav {
-        position: relative;
-        top: 320px;
+        position: absolute;
+        top: 150px;
         left: auto;
         max-width: 340px;
     }
@@ -299,17 +278,9 @@ footer {
         font-size: 18px;
         width: 110px;
     }
-    form > h1 {
-        position: relative;
-        left: 40px;
-    }
-    form {
-        position: relative;
-        left: 25px;
-    }
     .gallery {
         position:relative;
-        left: 50px;
+        left: 150px;
         top: 100px;
     }
     .gallery > img {
