@@ -1,9 +1,19 @@
-# Moon Child Yoga - A website to bring more well-being into lives of people of all ages and abilities #
+# Moon Child Yoga 
 
-## Description
+Moon Child Yoga is a website made to inspire more people dedicate time for keeping their own well-being using Yoga practices, Massage and Reiki. There is an option to book a date and a type of Yoga and a group yoga class which helps more people connect while learning how to balance, stretch and breathe. You can book Online Yoga class or a class in person, it can be one-on-one or a group yoga class. Massage is only available in Poland at the moment.
 
-## This website is one more opportunity for a teacher like Dominika to share her approach, attitude, knowledge and practice of yoga with the world. Through this webpage, we are able to see an individual travel many parts of the world in order to gain skills neccesary to help keep people healthy and happy. We can use this webpage for getting to know a bit about the personality of Dominka, her way of gaining skills like different types of massage, yoga teacher trainings of diferent types of yoga, meditation and energy work practices. We can book different types of classes which all have the same price.
-## There are also links to more information about the teachers who trained Dominika and links to diferent types of yoga that are available on www.wikipedia.com .
+# Features
+
+The Homepage is focused on the inspiration this Yoga teacher found while exploring Asia, India and learned about the practices she teaches today, presented with some photos.
+The Booking form has many options like different types of Yoga classes conducted mostly online.
+The Gallery is oriented towards some of the Asanas(yoga poses) that Dominka mastered as a teacher and some more information about her skills.
+
+# Existing Features
+
+Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with one click placed on top of the page, the links to social networks like Facebook and Instagram, and a middle button to navigate to top of page when you scroll too much down to get back on top with a click. Available on all three pages.
+
+
+
 
 # Homepage
 
