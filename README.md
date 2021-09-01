@@ -13,11 +13,7 @@ The Gallery is oriented towards some of the Asanas(yoga poses) that Dominka mast
 Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with one click placed on top of the page, the links to social networks like Facebook and Instagram, and a middle button to navigate to top of page when you scroll too much down to get back on top with a click. Available on all three pages.
 
 
-
-
 # Homepage
-
-## more focused on technical informations and the way Dominka decided to go to from a regular 9-5 job straight into deep inner work which was inspired by her yoga teacher, while she attended yoga classes as a student. Overview of her skills gained and diplomas received from teachers who are also referred by a link which opens in a new tab.
 
 # Booking form and more about skills
 
