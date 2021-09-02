@@ -72,7 +72,7 @@ body > section {
     border-radius: 45%;
 }
 #teachers {
-    font-size: 22px;
+    font-size: 24px;
     text-align: right;
     padding-left: 180px;
 }
@@ -188,7 +188,7 @@ section > h2 {
     max-height: 350px;
 }
 .padding-gallery {
-    padding-bottom: 10px;
+    padding-bottom: 75px;
 }
 /* footer styles */ 
 
@@ -213,43 +213,18 @@ footer {
 }
 /* media query for maximum of 600px */
 @media (max-width: 600px) {
-    body {
-        font-size: 16px;
-        width: 320px;
-    }
     header > h1 {
+        max-width: 260px;
         font-size: 40px;
         text-align: center;
     }
     #logo {
-        position: absolute;
-        right: auto;
-        top: 30px;
-        max-width: 200px;
+        max-width: 150px;
     }
     #intro {
-        position: relative;
-        top: 350px;
         max-width: 320px;
     }
-    #teachers {
-        position: relative;
-        top: 300px;
-    }
-    nav {
-        position: absolute;
-        top: 120px;
-        right: 110px;
-        max-width: 340px;
-    }
-    .link-list {
-        position: relative;
-        bottom: 5px;
-        font-size: 18px;
-        margin: 10px;
-    }
     .language {
-        font-size: 14px;
         max-width: 90px;
         padding-right: 15px;
     }
@@ -263,7 +238,7 @@ footer {
     }
     form {
         max-width: 160px;
-        font-size: 13px;
+        font-size: 14px;
         text-align: center;
         padding: 5px 5px 5px 10px;
     }
@@ -276,37 +251,26 @@ footer {
         padding-top: 25px;
         padding-right: 150px;
     }
-    .gallery {
-        position:relative;
-        left: 150px;
-        top: 50px;
-    }
     .gallery > img {
         max-width: 60%;
-        position: relative;
-        bottom: auto;
-        left: auto;
     }
     body > section {
         max-width: 250px;
-        padding-top: 130px;
+        padding-top: 100px;
         text-align: center;
     }
     section > h2 {
-        position: relative;
         border: none;
-        left: 35px;
-        bottom: 60px;
-        font-size: 18px;
+        font-size: 24px;
     }
     #about-me {
-        max-width: 320px;
+        max-width: 280px;
         text-align: center;
         position: relative;
         top: 300px;
     }
     footer {
-        font-size: 18px;
+        font-size: 17px;
     }
     
 
