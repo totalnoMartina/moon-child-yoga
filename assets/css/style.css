@@ -80,7 +80,12 @@ article {
     text-align: right;
     margin: 20%;
 }
-
+section > h3 {
+    text-align: center;
+    font-size: larger;
+    padding: 15px 0px 15px 0px;
+    text-decoration: underline;
+}
 .link-nav {
     font-size: 38px;
     color: #eaeaea;
@@ -148,18 +153,15 @@ input[type="submit"] {
     height: 9em;
 }
 input[type="submit"]:hover {
-      background-color: #331f2f;
-      color: #eaeaea;
+    background-color: #331f2f;
+    color: #eaeaea;
   }
 
   /* gallery styles */
 section > h2 {
     float: right;
-    font-size: 55px;
+    font-size: 32px;
     text-align: left;
-    border: 10px solid transparent;
-    border-image: url(/assets/images/logos/moon-border.png) 20% stretch;
-    border-width: 50px;
 }
 .gallery > img {
     position: relative;
@@ -167,9 +169,8 @@ section > h2 {
     left: 200px;
     max-width: 350px;
     max-height: 350px;
-    padding: 22px;
+    padding: 3%;
 }
-
 #about-me {
     font-size: 22px;
     position: relative;
@@ -186,9 +187,6 @@ section > h2 {
 .about-photos > img {
     max-width: 350px;
     max-height: 350px;
-}
-.padding-gallery {
-    padding-bottom: 75px;
 }
 /* footer styles */ 
 
@@ -218,6 +216,9 @@ footer {
         font-size: 40px;
         text-align: center;
     }
+    .link-nav {
+        font-size: 15px;
+    }
     #logo {
         max-width: 150px;
     }
@@ -237,7 +238,7 @@ footer {
         padding: 50px 0px 0px 50px;
     }
     form {
-        max-width: 160px;
+        max-width: 180px;
         font-size: 14px;
         text-align: center;
         padding: 5px 5px 5px 10px;
@@ -252,7 +253,7 @@ footer {
         padding-right: 150px;
     }
     .gallery > img {
-        max-width: 60%;
+        max-width: 70%;
     }
     body > section {
         max-width: 250px;
@@ -260,6 +261,7 @@ footer {
         text-align: center;
     }
     section > h2 {
+        float: none;
         border: none;
         font-size: 24px;
     }
