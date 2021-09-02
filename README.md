@@ -10,35 +10,41 @@ The Gallery is oriented towards some of the Asanas(yoga poses) that Dominka mast
 
 # Existing Features
 
+## Navigation Bar
+
 Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with one click is  placed in the middle of the page, under the logo. The links to social networks like Facebook and Instagram, and a middle button to navigate to top of page when you scroll too far down to get back on top with a single click. Available on all three pages.
 
-# Homepage
+![Navigation Bar](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/homepage-navigation.png?raw=true)
+
+## Homepage
 
 Homepage contains text about the beginnings of yoga practice, practices and some photos showing certificates and people involved in her educational part of the journey to becoming a yoga teacher. 
 
-![Homepage](/assets/images/readme-image/homepage-first-page.png)
+![Homepage](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/homepage-first-page.png?raw=true)
 
-# Booking form
+## Booking form
 
 Booking form contains a poster of Dominika and is used to book a yoga class or massage class.
 
-# Gallery 
+! [Booking Form](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/booking-form-page.png?raw=true)
+
+## Gallery 
 
 Gallery contains images of yoga poses in many different places all masterfully presented by Dominika and some text under about her career before and after Yoga teacher training, education and personal references.
 
-# Footer
+![Gallery](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/gallery-page.png?raw=true)
+
+## Footer
 
 Footer contains Facebook and Instagram links and a middle link for getting back to the top of the page towards navigation.
+
+![Footer](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/footer.png?raw=true)
 
 # Additional Features
 
 Booking many types of Massage are considered as next step in making this website. The idea is to own her own yoga studio and have space for massage and options of many types of massage since at the moment Dominka is attending university in Poland to improve her massage skills. Adding Reiki to the page with more information is also a vision for the future of this website.
 
 # Testing
-
-***
-
- August, 22, 2021 - Bringing captions around photos is one of the ideas, I decided to put tiles on all of them and used google search to help me with thinking of which is the best way while I am still about will that really be neccesary or helpful.
 
  28.08.2021. 
  Responsive Layout
@@ -60,7 +66,7 @@ CSS
 
  # Unfixed bugs
 
- **
+***
 
  # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -76,13 +82,13 @@ In making the webpage, Dominika, the Yoga teacher provided all the informations 
 While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the link here: https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/.
 Barbara Radovic, from Croatia, helped with word-proofing the text.
 I put a border around poster and a Gallery text which I found on this link here: https://www.pngegg.com/en/png-bxqal
+In how to put images properly visible I had help from this link here: https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
 # Content
 
-**
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+The majority of content was provided by Dominka, the yoga teacher, she had cover letters and CV samples and many images taken by her friends all around
+The form was helped to be created by Dominika and a LinkedIn Course on HTML and CSS which there is a link for here: https://www.linkedin.com/learning/html-css-creating-forms/welcome 
+The icons in the footer and payment icon that directs to PayPal link were taken from [Font Awesome](https://fontawesome.com/)
 
 # Media
 
