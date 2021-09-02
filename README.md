@@ -58,7 +58,7 @@ Booking many types of Massage are considered as next step in making this website
 
 HTML
 ***
-
+Need to add links of testings ***
 CSS
 
  Ran CSS through validator and after fixing percentage unit on one of font-size properties it showed no warnings or issues

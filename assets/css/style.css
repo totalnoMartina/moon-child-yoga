@@ -272,6 +272,13 @@ footer {
     footer {
         font-size: 17px;
     }
+}
+/* media query for maximum of 1000px */
+@media (max-width: 1000px) {
     
+}
 
+/* media query for maximum of 1313px */
+@media (max-width: 1313px) {
+    
 }
