@@ -162,6 +162,7 @@ section > h2 {
     float: right;
     font-size: 32px;
     text-align: left;
+    padding-top: 50px;
 }
 .gallery > img {
     position: relative;
