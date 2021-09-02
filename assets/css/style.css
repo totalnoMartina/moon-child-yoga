@@ -158,7 +158,7 @@ section > h2 {
     font-size: 55px;
     text-align: left;
     border: 10px solid transparent;
-    border-image: url(/assets/images/logos/moon-border.png) 20% stretch;
+    border-image: url(assets/images/logos/moon-border.png) 20% stretch;
     border-width: 50px;
 }
 .gallery > img {

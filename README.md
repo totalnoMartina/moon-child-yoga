@@ -10,7 +10,7 @@ The Gallery is oriented towards some of the Asanas(yoga poses) that Dominka mast
 
 # Existing Features
 
-Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with one click placed on top of the page, the links to social networks like Facebook and Instagram, and a middle button to navigate to top of page when you scroll too much down to get back on top with a click. Available on all three pages.
+Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with one click is  placed in the middle of the page, under the logo. The links to social networks like Facebook and Instagram, and a middle button to navigate to top of page when you scroll too far down to get back on top with a single click. Available on all three pages.
 
 # Homepage
 
@@ -36,18 +36,11 @@ Booking many types of Massage are considered as next step in making this website
 
 ***
 
- I changed background several times to accomodate accesibility standards and on August, 5, 2021 the purple shade might be final version
-
- August, 21, 2021 - I wanted to put the "back to top button" so I found my solution on https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/ 
-
-
  August, 22, 2021 - Bringing captions around photos is one of the ideas, I decided to put tiles on all of them and used google search to help me with thinking of which is the best way while I am still about will that really be neccesary or helpful.
 
  28.08.2021. 
  Responsive Layout
  LinkedIn Course
-
-# Wordproofing text with a skilled proof-reader from Croatia
 
  Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page 
 
@@ -60,7 +53,7 @@ HTML
 
 CSS
 
- Ran CSS through validator and after fixing percentage unit on one of font-size properties it showed no warnings or issues***
+ Ran CSS through validator and after fixing percentage unit on one of font-size properties it showed no warnings or issues
 
 
  # Unfixed bugs
@@ -68,14 +61,19 @@ CSS
  **
 
  # Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
- **
-
+The live link can be found here - https://totalnomartina.github.io/moon-child-yoga/
 
  # Credits
 
-In making this webpage, Dominika, the owner of the webpage provided all the informations in text and images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters.
-Barbara Radovic helped with word-proofing the text.
+In making the webpage, Dominika, the Yoga teacher provided all the informations in text and images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters. She helped a lot in creating the booking form page, too.
+While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the link here: https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/.
+Barbara Radovic, from Croatia, helped with word-proofing the text.
+I put a border around poster and a Gallery text which I found on this link here: https://www.pngegg.com/en/png-bxqal
 
 # Content
 
