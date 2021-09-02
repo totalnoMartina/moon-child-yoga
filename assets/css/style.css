@@ -33,8 +33,6 @@ body {
 }
 #logo {
     max-width: 250px;
-    bottom: 150px;
-    left: 100px;
     margin: auto;
     border-radius: 50%;
 }
@@ -83,14 +81,13 @@ article {
     margin: 20%;
 }
 
-.link-list {
+.link-nav {
     font-size: 38px;
     color: #eaeaea;
-    background-color: #9f6eaf;
     letter-spacing: 0.4em;
     border-radius: 35%;
 }
-.link-list:hover {
+.link-nav:hover {
     color: #331f2f;
     border-radius: 35%;
     background-color: #eccfc3;
@@ -133,27 +130,23 @@ form > label {
 .select-date {
     text-decoration: underline;
 }
-
 form input[type="date"] {
     width: 250px;
     clear: both;
     margin-bottom: 8%;
 }
-
 .details {
     text-align: center;
     width: 230px;
     height: 30px;
 }
-
 input[type="submit"] {
     border: 20px solid;
     border-radius: 50%;
     border-color: #331f2f;
     width: 9em;
     height: 9em;
-  }
-
+}
 input[type="submit"]:hover {
       background-color: #331f2f;
       color: #eaeaea;
@@ -214,7 +207,7 @@ footer {
     padding: 0.2em;
 }
 
-.link {
+.link-footer {
     color: #330429;
     word-spacing: 10px;
 }
