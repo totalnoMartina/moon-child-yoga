@@ -16,6 +16,8 @@ Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with on
 
 Homepage contains text about the beginnings of yoga practice, practices and some photos showing certificates and people involved in her educational part of the journey to becoming a yoga teacher. 
 
+![Homepage](/assets/images/readme-image/homepage-first-page.png)
+
 # Booking form
 
 Booking form contains a poster of Dominika and is used to book a yoga class or massage class.
