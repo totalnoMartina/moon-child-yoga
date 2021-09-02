@@ -81,7 +81,7 @@ The live link can be found here - https://totalnomartina.github.io/moon-child-yo
 In making the webpage, Dominika, the Yoga teacher provided all the informations in text and images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters. She helped a lot in creating the booking form page, too.
 While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the link here: https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/.
 Barbara Radovic, from Croatia, helped with word-proofing the text.
-I put a border around poster and a Gallery text which I found on this link here: https://www.pngegg.com/en/png-bxqal
+///I put a border around poster and a Gallery text which I found on this link here: https://www.pngegg.com/en/png-bxqal/// which does not show...!
 In how to put images properly visible I had help from this link here: https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
 # Content
