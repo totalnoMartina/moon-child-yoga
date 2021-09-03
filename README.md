@@ -27,7 +27,7 @@ Homepage contains text about the beginnings of Dominika's yoga practice, as a st
 Booking form contains a poster of Dominika and is used to book a yoga class or massage class.
 This is of value because user is able to book a class online or in person and make direct payment.
 
-! [Booking Form](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/booking-form-page.png?raw=true)
+![Booking Form](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/booking-form-page.png?raw=true)
 
 ## Gallery 
 
@@ -60,20 +60,21 @@ Booking many types of Massage are considered as next step in making this website
 HTML
 ***
 Need to add links of testings ***
+
 CSS
 
- Ran CSS through validator and after fixing percentage unit on one of font-size properties it showed no warnings or issues
+Ran CSS through validator and after fixing percentage unit on one of font-size properties it showed no warnings or issues
 
 
- # Unfixed bugs
+# Unfixed bugs
 
 ***
 
- # Deployment
+# Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- In the GitHub repository, navigate to the Settings tab 
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://totalnomartina.github.io/moon-child-yoga/
 
