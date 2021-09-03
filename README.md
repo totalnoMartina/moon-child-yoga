@@ -37,7 +37,7 @@ Gallery contains images of yoga poses in many different places all masterfully p
 
 ## Footer
 
-Footer contains Facebook and Instagram links and a middle link for getting back to the top of the page towards navigation. This is of value to the user because it provides social media links where we could get in touch with this yoga teacher and see more of her abilites and skills that make her who she is.
+Footer contains Facebook and Instagram links, which open in a new tab, and a middle link for getting back to the top of the page towards navigation. This is of value to the user because it provides social media links where we could get in touch with this yoga teacher and see more of her abilites and skills that make her who she is. The middle button "Back to top" is of value because it gives a chance to quickly navigate to the navigation and further easily.
 
 ![Footer](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/footer.png?raw=true)
 
