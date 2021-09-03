@@ -4,13 +4,16 @@ Moon Child Yoga is a website made to inspire more people dedicate time for keepi
 
 # Wireframes
 
-Add screenshot
+![Balsamiq Wireframe](readme-images/wireframe.png?raw=true)
+
+The original idea included already known logo and the images wrapped around with text provided all by Dominika.
 
 
 # Design
-## Color scheme
+## Colour scheme
 
-explain the color scheme and the reason
+The colour scheme for the website was chosen in agreement with Dominka. Her logo was in dark colours and with blue representing night and deep water, while her photos are pink and purple which helped decide on the shades. Good use of this website when choosing colours: https://coolors.co/97ead2-8cc7a1-816e94-74226c-4b2142
+
 ## Typography
 
 link to google fonts, font awesome
@@ -77,12 +80,15 @@ Firefox testing and screenshot, Chrome and IPhone
 
 HTML
 
-Need to add screenshots of testings ***
+![Homepage Validation](readme-images/homepage-html.png?raw=true)
+
+![Booking Form Validation](readme-images/booking-html.png?raw=true)
+
+![Gallery Validation](readme-images/gallery-html.png?raw=true))
 
 CSS
 
-Ran CSS through validator and after fixing percentage unit on one of font-size properties it showed no warnings or issues
-
+![CSS Valiadation](readme-images/css-validation.png?raw=true)
 
 ## Unfixed bugs
 
