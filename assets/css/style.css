@@ -102,7 +102,6 @@ section > h3 {
     font-style: italic;
     margin: 20px;
 }
-
 /* form  styles*/ 
 form > h1 {
     font-size: 65px;
@@ -155,7 +154,7 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #331f2f;
     color: #eaeaea;
-  }
+}
 
   /* gallery styles */
 section > h2 {
@@ -215,7 +214,7 @@ footer {
         text-align: center;
     }
     .link-nav {
-        font-size: 15px;
+        font-size: 16px;
     }
     #logo {
         max-width: 150px;
@@ -261,7 +260,7 @@ footer {
     section > h2 {
         float: none;
         border: none;
-        font-size: 24px;
+        font-size: 22px;
     }
     #about-me {
         max-width: 280px;
@@ -273,8 +272,29 @@ footer {
         font-size: 17px;
     }
 }
-/* media query for maximum of 1000px */
-@media (max-width: 1000px) {
+/* media query for maximum of 1067px */
+@media (max-width: 1067px) {
+    body > section {
+        font-size: 17px;
+        max-width: 700px;
+    }
+    #logo {
+        max-width: 200px;
+    }
+    header > h1 {
+        font-size: 65px;
+    }
+    #intro {
+        padding-right: 30px;
+    }
+    form > label {
+        max-width: 190px;
+        font-size: 18px;
+
+    }
+    .link-nav {
+        font-size: 22px;
+    }
     
 }
 

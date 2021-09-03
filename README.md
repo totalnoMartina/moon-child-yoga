@@ -12,11 +12,11 @@ The original idea included already known logo and the images wrapped around with
 # Design
 ## Colour scheme
 
-The colour scheme for the website was chosen in agreement with Dominka. Her logo was in dark colours and with blue representing night and deep water, while her photos are pink and purple which helped decide on the shades. Good use of this website when choosing colours: https://coolors.co/97ead2-8cc7a1-816e94-74226c-4b2142
+The colour scheme for the website was chosen in agreement with Dominka. Her logo was in dark colours and with blue representing night and deep water, while her photos are pink and purple which helped decide on the shades. Good use of website called [Coolors](https://coolors.co/97ead2-8cc7a1-816e94-74226c-4b2142) when choosing colours: 
 
 ## Typography
 
-link to google fonts, font awesome
+The Font for the website was taken from [Google Fonts](https://fonts.google.com/specimen/Playfair+Display?query=playfair)
 The icons in the footer and payment icon that directs to PayPal link were taken from [Font Awesome](https://fontawesome.com/)
 
 # Features
