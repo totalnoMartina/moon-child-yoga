@@ -64,13 +64,11 @@ Booking many types of Massage are considered as next step in making this website
 
 # Testing
 
- 28.08.2021. 
- Responsive Layout
- LinkedIn Course
+***Maybe lighthouse testing?
 
- Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page 
+Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page 
 
- Playing with grid for the responsive-friendly gallery, arranged new border image for booking form image
+Playing with grid for the responsive-friendly gallery, arranged new border image for booking form image
 
 ## Browser Compatibility
 
@@ -103,7 +101,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 The live link can be found here - https://totalnomartina.github.io/moon-child-yoga/
 
- # Credits
+# Credits
 
 In making the webpage, Dominika, the Yoga teacher provided all the informations in text and images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters. She helped a lot in creating the booking form page, too.
 
@@ -120,5 +118,4 @@ The form was helped to be created by Dominika and a LinkedIn Course on HTML and 
 
 # Media
 
-**
 Images are taken from Dominka's shared Google Drive
