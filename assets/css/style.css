@@ -165,11 +165,9 @@ section > h2 {
     padding-top: 50px;
 }
 .gallery > img {
-    position: relative;
-    top: 200px;
-    left: 200px;
     max-width: 350px;
     max-height: 350px;
+    margin: ;
     padding: 3%;
 }
 #about-me {
@@ -281,7 +279,7 @@ footer {
     
 }
 
-/* media query for maximum of 1313px */
+/* media query for maximum of 1200px */
 @media (max-width: 1313px) {
     
 }
