@@ -41,7 +41,7 @@ Footer contains Facebook and Instagram links and a middle link for getting back 
 
 ![Footer](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/footer.png?raw=true)
 
-# Additional Features
+# Features left to implement
 
 Booking many types of Massage are considered as next step in making this website. The idea is to own her own yoga studio and have space for massage and options of many types of massage since at the moment Dominka is attending university in Poland to improve her massage skills. Adding Reiki to the page with more information is also a vision for the future of this website.
 
@@ -95,5 +95,3 @@ The icons in the footer and payment icon that directs to PayPal link were taken 
 
 **
 Images are taken from Dominka's shared Google Drive
- 
-
