@@ -18,25 +18,26 @@ Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with on
 
 ## Homepage
 
-Homepage contains text about the beginnings of yoga practice, practices and some photos showing certificates and people involved in her educational part of the journey to becoming a yoga teacher. 
+Homepage contains text about the beginnings of Dominika's yoga practice, as a student, and some photos showing certificates and people involved in her educational part of the journey to becoming a yoga teacher. This is valuable to the user because she/he can relate to someone learning and finding her path.
 
 ![Homepage](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/homepage-first-page.png?raw=true)
 
 ## Booking form
 
 Booking form contains a poster of Dominika and is used to book a yoga class or massage class.
+This is of value because user is able to book a class online or in person and make direct payment.
 
 ! [Booking Form](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/booking-form-page.png?raw=true)
 
 ## Gallery 
 
-Gallery contains images of yoga poses in many different places all masterfully presented by Dominika and some text under about her career before and after Yoga teacher training, education and personal references.
+Gallery contains images of yoga poses in many different places all masterfully presented by Dominika and some text under about her career before and after Yoga teacher training, education and personal references. This is of value to user because of yoga poses showing skills and abilities of this yoga teacher.
 
 ![Gallery](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/gallery-page.png?raw=true)
 
 ## Footer
 
-Footer contains Facebook and Instagram links and a middle link for getting back to the top of the page towards navigation.
+Footer contains Facebook and Instagram links and a middle link for getting back to the top of the page towards navigation. This is of value to the user because it provides social media links where we could get in touch with this yoga teacher and see more of her abilites and skills that make her who she is.
 
 ![Footer](https://github.com/totalnoMartina/moon-child-yoga/blob/main/assets/images/readme-images/footer.png?raw=true)
 
