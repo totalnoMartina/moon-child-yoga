@@ -163,7 +163,7 @@ section > h2 {
 }
 .gallery {
     padding-top: 50px;
-    padding-left: 195px;
+    padding-left: 150px;
 }
 .gallery > img {
     max-width: 310px;
@@ -172,15 +172,15 @@ section > h2 {
 }
 #about-me {
     font-size: 22px;
-    position: relative;
-    left: 150px;
-    top: 190px;
     text-align: left;
     max-width: 800px;
 }
 .about-photos > img {
     max-width: 350px;
     max-height: 350px;
+}
+.padding-gallery {
+    padding-bottom: 50px;
 }
 /* footer styles */ 
 
@@ -304,6 +304,7 @@ footer {
     .link-nav {
         font-size: 22px;
     }
+    
     
 }
 
