@@ -15,7 +15,7 @@ header > h1 {
     letter-spacing: 2px;
 }
 .language {
-    font-size: 22px;
+    font-size: 21px;
     text-align: center;
     background-color: #c01bb0;
     position: fixed;
@@ -37,9 +37,9 @@ body {
 }
 #intro, #teachers {
     max-width: 860px;
-    font-size: 22px;
+    font-size: 21px;
     text-align: right;
-    padding-top: 200px;
+    padding-top: 180px;
     padding-left: 50px;
 }
 .home-page-photos {
@@ -76,7 +76,7 @@ article {
 }
 section > h3 {
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     padding: 5px 0px 5px 0px;
     text-decoration: underline;
 }
@@ -158,8 +158,8 @@ input[type="submit"]:hover {
     max-height: 340px;
     padding: 10px;
 }
-#about-me {
-    font-size: 22px;
+.about-me {
+    font-size: 21px;
     text-align: left;
     max-width: 800px;
 }
@@ -253,7 +253,7 @@ footer {
     .gallery {
         padding: 15px 10px 10px 10px;
     }
-    #about-me {
+    .about-me {
         font-size: inherit;
         padding: 5px;
         text-align: center;
@@ -292,7 +292,7 @@ footer {
         max-width: 190px;
         font-size: 18px;
     }
-    #about-me {
+    .about-me {
         max-width: 690px;
         padding: 5px 10px 15px;
     }
@@ -312,7 +312,7 @@ footer {
         font-size: 22px;
         padding: 0%;
     }
-    #about-me {
+    .about-me {
         max-width: 1300px;
         font-size: 22px;
         padding: 10px 10px 10px 10px;
