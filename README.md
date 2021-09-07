@@ -2,6 +2,10 @@
 
 Moon Child Yoga is a website made to inspire more people dedicate time for keeping their own well-being using Yoga practices, Massage and Reiki. There is an option to book a date and a type of Yoga and a group yoga class which helps more people connect while learning how to balance, stretch and breathe. You can book Online Yoga class or a class in person, it can be one-on-one or a group yoga class. Massage is only available in Poland at the moment.
 
+# Different Screen Sizes 
+
+![IPhone, IPad and Desktop Screens](readme-images/screen-sizes.png?raw=true)
+
 # Wireframes
 
 ![Balsamiq Wireframe](readme-images/wireframe.png?raw=true)
