@@ -71,10 +71,16 @@ Playing with grid for the responsive-friendly gallery, arranged new border image
 
 ## Browser Compatibility
 
-Firefox testing shows the borders around which are made in white and grey shades, turn out dark/black in Firefox Display
+Firefox testing - the borders around images which are white and grey in Chrome Browser, turn out dark/black in Firefox Display. 
+
 ![Firefox Display](readme-images/firefox-display.png?raw=true)
 
+
+IPhone 6 Display is the one I tested this webpage on and there were no issues or irregularities.
+
 ![IPhone 6/7/8 Display](readme-images/iphone-screen.png?raw=true)
+
+IPad Display showed the webpage without issues or irregularities.
 
 ![IPad Display](readme-images/ipad-screen.png?raw=true)
 
@@ -82,6 +88,7 @@ Firefox testing shows the borders around which are made in white and grey shades
 
 HTML
 
+Validator reported no warnings or issues (should i mention "h2"?)
 ![Homepage Validation](readme-images/homepage-html.png?raw=true)
 
 ![Booking Form Validation](readme-images/booking-html.png?raw=true)
@@ -94,7 +101,7 @@ CSS
 
 ## Unfixed bugs
 
-Gallery image
+There was not bugs in making this webpage.
 
 # Deployment
 
@@ -107,12 +114,12 @@ The live link can be found here - https://totalnomartina.github.io/moon-child-yo
 
 # Credits
 
-In making the webpage, Dominika, the Yoga teacher provided all the informations in text and images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters. She helped a lot in creating the booking form page, too.
+In making of the webpage, Dominika, the Yoga teacher, provided all of the informations in text and all images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters. She helped a lot in creating the booking form page. Image of [Dali Dharma](https://bookretreats.com/teacher/dali-dhamma) was taken from his website.
 
 While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the link here: https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/.
 Barbara Radovic, from Croatia, helped with word-proofing the text.
 ///I put a border around poster and a Gallery text which I found on this link here: https://www.pngegg.com/en/png-bxqal/// which does not show...!
-In how to put images properly visible I had help from this link here: https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+
 
 # Content
 
