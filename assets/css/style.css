@@ -108,9 +108,6 @@ form > h1 {
     max-height: 300px;
     float: right;
     padding: 7px;
-    border: 30px solid transparent;
-    border-image: url("assets/images/logos/moon-border.png") 20% stretch;
-    border-width: 120px;
 }
 .select {
     text-decoration: underline;
@@ -188,11 +185,11 @@ footer {
     margin-bottom: 0px;
     padding: 0.2em;
 }
-
 .link-footer {
     color: #330429;
     word-spacing: 10px;
 }
+
 /* Media query for maximum screen size of 600px */
 
 @media screen and (max-width: 600px) {
@@ -237,7 +234,6 @@ footer {
     }
     #poster-book {
         float: none;
-        border: none;
         padding: 50px 0px 0px 50px;
     }
     form {
