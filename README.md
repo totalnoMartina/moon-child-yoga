@@ -123,9 +123,8 @@ Barbara Radovic, from Croatia, helped with word-proofing the text.
 
 # Content
 
-The majority of content was provided by Dominka, the yoga teacher, she had cover letters and CV samples and many images taken by her friends all around
-The form was helped to be created by Dominika and a LinkedIn Course on HTML and CSS which there is a link for here: https://www.linkedin.com/learning/html-css-creating-forms/welcome 
-
+The majority of content was provided by Dominka, the yoga teacher, she had cover letters and CV samples and many images taken by her friends all around the world.
+The form was helped to be created by Dominika in text, offers, prices and structure.
 
 # Media
 
