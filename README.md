@@ -16,8 +16,7 @@ The colour scheme for the website was chosen in agreement with Dominka. Her logo
 
 ## Typography
 
-The Font for the website was taken from [Google Fonts](https://fonts.google.com/specimen/Playfair+Display?query=playfair)
-The icons in the footer and payment icon that directs to PayPal link were taken from [Font Awesome](https://fontawesome.com/)
+The Font for the website was taken from [Google Fonts](https://fonts.google.com/specimen/Playfair+Display?query=playfair) and the icons in the footer and payment icon that directs to PayPal link were taken from [Font Awesome](https://fontawesome.com/)
 
 # Features
 
@@ -29,7 +28,7 @@ The Gallery is oriented towards some of the Asanas(yoga poses) that Dominka mast
 
 ## Navigation Bar
 
-Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with one click is  placed in the middle of the page, under the logo. The links to social networks like Facebook and Instagram, and a middle button to navigate to top of page when you scroll too far down to get back on top with a single click. Available on all three pages.
+Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with one click, is  placed in the middle of the page, under the logo. The links to social networks like Facebook and Instagram, and a middle button to navigate to top of page when you scroll too far down to get back on top with a single click. "Back to top" button available on all pages.
 
 ![Navigation Bar](readme-images/homepage-navigation.png?raw=true)
 
@@ -54,13 +53,13 @@ Gallery contains images of yoga poses in many different places all masterfully p
 
 ## Footer
 
-Footer contains Facebook and Instagram links, which open in a new tab, and a middle link for getting back to the top of the page towards navigation. This is of value to the user because it provides social media links where we could get in touch with this yoga teacher and see more of her abilites and skills that make her who she is. The middle button "Back to top" is of value because it gives a chance to quickly navigate to the navigation and further easily.
+Footer contains Facebook and Instagram links, which open in a new tab, and a middle link for getting back to the top of the page towards navigation. This is of value to the user because it provides social media links where we could get in touch with this yoga teacher and see more of her abilites and skills that make her who she is. The middle button "Back to top" is valuable for accessing navigation with one click.
 
 ![Footer](readme-images/footer.png?raw=true)
 
 # Features left to implement
 
-Booking many types of Massage are considered as next step in making this website. The idea is to own her own yoga studio and have space for massage and options of many types of massage since at the moment Dominka is attending university in Poland to improve her massage skills. Adding Reiki to the page with more information is also a vision for the future of this website.
+Booking many types of Massage is one of the next steps in making this website. The idea is to own her own yoga studio and have space for massage and options of many types of massage since at the moment Dominka is attending University in Poland to improve her massage skills. Also, adding Reiki to the page with more information is a vision for the future of this website.
 
 # Testing
 
@@ -72,7 +71,12 @@ Playing with grid for the responsive-friendly gallery, arranged new border image
 
 ## Browser Compatibility
 
-Firefox testing and screenshot, Chrome and IPhone
+Firefox testing shows the borders around which are made in white and grey shades, turn out dark/black in Firefox Display
+![Firefox Display](readme-images/firefox-display.png?raw=true)
+
+![IPhone 6/7/8 Display](readme-images/iphone-screen.png?raw=true)
+
+![IPad Display](readme-images/ipad-screen.png?raw=true)
 
 ## Validator testing 
 
