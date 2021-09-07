@@ -3,6 +3,7 @@
 Moon Child Yoga is a website made to inspire more people dedicate time for keeping their own well-being using Yoga practices, Massage and Reiki. There is an option to book a date and a type of Yoga and a group yoga class which helps more people connect while learning how to balance, stretch and breathe. You can book Online Yoga class or a class in person, it can be one-on-one or a group yoga class. Massage is only available in Poland at the moment.
 
 # Different Screen Sizes 
+Image design made with [Canva Website](https://www.canva.com/).
 
 ![IPhone, IPad and Desktop Screens](readme-images/screen-sizes.png?raw=true)
 
@@ -90,6 +91,7 @@ IPad Display showed the webpage without issues or irregularities.
 
 ## Validator testing 
 
+***ask Tim if the difference in removing h2 element which now makes it different code, should I validate again to be exact or how important are these details***
 HTML
 
 Validator reported no warnings or issues (should i mention "h2"?)
