@@ -109,7 +109,7 @@ form > h1 {
     float: right;
     padding: 7px;
     border: 30px solid transparent;
-    border-image: url(/assets/images/logos/moon-border.png) 20% stretch;
+    border-image: url(assets/images/logos/moon-border.png) 20% stretch;
     border-width: 120px;
 }
 .select {
