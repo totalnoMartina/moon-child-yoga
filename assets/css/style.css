@@ -288,9 +288,9 @@ footer {
         font-size: 45px;
     }
     #intro, #teachers {
-        padding: 5px 30px 25px 5px;
         text-align: center;
         font-size: 19px;
+        padding: 5px 30px 25px 5px;
     }
     form > label {
         max-width: 190px;
@@ -305,8 +305,21 @@ footer {
     }
 }
 
-/* media query for maximum of 1313px */
-@media (max-width: 1313px) {
-
-    
+/* media query for minimmum of 1396px */
+@media (min-width: 1396px) {
+    #intro, #teachers {
+        max-width: 1290px;
+        padding: 5px 5px 30px 5px;
+    }
+    body > section {
+        max-width: 1290px;
+        font-size: 22px;
+        padding: 0%;
+    }
+    #about-me {
+        max-width: 1300px;
+        font-size: 22px;
+        padding: 10px 10px 10px 10px;
+        }
+    }
 }
