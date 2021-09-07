@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 
 /* global styles */
-/* main page styles */
+/* home-page styles */
 * {
     margin: 0;
     font-family: 'Playfair Display', serif;
@@ -96,7 +96,8 @@ section > h3 {
     font-style: italic;
     margin: 20px;
 }
-/* form  styles*/ 
+/* booking form page styles*/ 
+
 form > h1 {
     font-size: 65px;
     max-width: 35px;
@@ -109,7 +110,7 @@ form > h1 {
     float: right;
     padding: 7px;
 }
-.select {
+.select-date {
     text-decoration: underline;
 }
 form {
@@ -146,8 +147,8 @@ input[type="submit"]:hover {
     background-color: #331f2f;
     color: #eaeaea;
 }
+/* gallery styles */
 
-  /* gallery styles */
 .gallery {
     padding-top: 50px;
     padding-left: 150px;
@@ -189,7 +190,6 @@ footer {
     color: #330429;
     word-spacing: 10px;
 }
-
 /* Media query for maximum screen size of 600px */
 
 @media screen and (max-width: 600px) {
@@ -302,7 +302,7 @@ footer {
 }
 
 /* media query for minimmum of 1396px */
-@media (min-width: 1396px) {
+@media screen and (min-width: 1396px) {
     #intro, #teachers {
         max-width: 1290px;
         padding: 5px 5px 30px 5px;
