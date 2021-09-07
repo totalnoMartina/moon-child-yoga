@@ -176,7 +176,7 @@ input[type="submit"]:hover {
 
 footer {
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     word-spacing: 5px;
     color: #fffefe;
     letter-spacing: 2px;
@@ -264,29 +264,33 @@ footer {
     }
     footer {
         font-size: 18px;
+        position: fixed;
         bottom: 0px;
         left: 0px;
         right: 0px;
         margin-bottom: 0px;
     }
 }
-/* media query for minimum of 900px */
-@media screen and (min-width: 900px) {
+/* media query for maximum of 900px */
+@media screen and (max-width: 900px) {
     body > section {
         max-width: 840px;
+        font-size: 19px;
         padding: 0%;
     }
     .link-nav {
         font-size: 20px;
     }
     #logo {
-        max-width: 200px;
+        max-width: 180px;
     }
     header > h1 {
-        font-size: 65px;
+        font-size: 45px;
     }
-    #intro {
-        padding-right: 30px;
+    #intro, #teachers {
+        padding: 5px 30px 25px 5px;
+        text-align: center;
+        font-size: 19px;
     }
     form > label {
         max-width: 190px;
@@ -294,10 +298,10 @@ footer {
     }
     #about-me {
         max-width: 690px;
+        padding: 5px 10px 15px;
     }
-    section > h3 {
-        text-align: center;
-        font-size: 18px;
+    footer {
+        font-size: 20px;
     }
 }
 
