@@ -68,11 +68,9 @@ Booking many types of Massage is one of the next steps in making this website. T
 
 # Testing
 
-***Maybe lighthouse testing?
+***Maybe lighthouse testing
 
-Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page 
-
-Playing with grid for the responsive-friendly gallery, arranged new border image for booking form image
+Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
 
 ## Browser Compatibility
 
@@ -91,15 +89,13 @@ IPad Display showed the webpage without issues or irregularities.
 
 ## Validator testing 
 
-***ask Tim if the difference in removing h2 element which now makes it different code, should I validate again to be exact or how important are these details***
 HTML
 
-Validator reported no warnings or issues (should i mention "h2"?)
 ![Homepage Validation](readme-images/homepage-html.png?raw=true)
 
 ![Booking Form Validation](readme-images/booking-html.png?raw=true)
 
-![Gallery Validation](readme-images/gallery-html.png?raw=true))
+![Gallery Validation](readme-images/gallery-html.png?raw=true)
 
 CSS
 
@@ -118,14 +114,19 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 The live link can be found here - https://totalnomartina.github.io/moon-child-yoga/
 
+### Local Deployment
+
+If you would like to make a local copy of this repository, you can clone it by typing the following command in your IDE terminal:
+- `git clone https://github.com/totalnoMartina/moon-child-yoga.git`
+
+Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/totalnoMartina/moon-child-yoga) to generate a new workspace using this repository.
+
 # Credits
 
-In making of the webpage, Dominika, the Yoga teacher, provided all of the informations in text and all images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters. She helped a lot in creating the booking form page. Image of [Dali Dharma](https://bookretreats.com/teacher/dali-dhamma) was taken from his website.
+In making of the webpage, Dominika, the Yoga teacher, provided all of the informations in text and all images. Logo was designed by her, too. As she already is teaching yoga and having her social account that represents her yoga teachings, she had many photos. Text was taken from CV and cover letters. She helped a lot in creating the booking form page. Image of [Dali Dhamma](https://bookretreats.com/teacher/dali-dhamma) was taken from his website.
 
-While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the link here: https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/.
+While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the [link here](https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/).
 Barbara Radovic, from Croatia, helped with word-proofing the text.
-///I put a border around poster and a Gallery text which I found on this link here: https://www.pngegg.com/en/png-bxqal/// which does not show...!
-
 
 # Content
 
@@ -134,4 +135,4 @@ The form was helped to be created by Dominika in text, offers, prices and struct
 
 # Media
 
-Images are taken from Dominka's shared Google Drive
+All images are provided by Dominka Urbanska and I was given permission to use it on this site. There is an image of Dali Dhamma, yoga teacher which was taken from his [website](https://bookretreats.com/teacher/dali-dhamma).

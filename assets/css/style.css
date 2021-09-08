@@ -6,6 +6,9 @@
     margin: 0;
     font-family: 'Playfair Display', serif;
 }
+html {
+    scroll-behavior: smooth;
+}
 header {
     text-align: center;
 }
@@ -27,8 +30,7 @@ body {
     background-color: #9f6eaf;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-x: hidden;/*test* it */
 }
 #logo {
     max-width: 250px;
@@ -38,8 +40,8 @@ body {
 #intro, #teachers {
     max-width: 860px;
     font-size: 21px;
-    text-align: right;
-    padding-top: 180px;
+    text-align: center;
+    padding-top: 50px;
     padding-left: 50px;
 }
 .home-page-photos {
@@ -61,7 +63,7 @@ ul {
 }
 body > section {
     max-width: 860px;
-    padding: 10px 0px 45px 200px;
+    padding: 0 10%;
 }
 .active-now {
     text-decoration-color:  #331f2f;
@@ -94,7 +96,7 @@ section > h3 {
 }
 #signature {
     font-style: italic;
-    margin: 20px;
+    padding: 10%;
 }
 /* booking form page styles*/ 
 
@@ -160,7 +162,7 @@ input[type="submit"]:hover {
 }
 .about-me {
     font-size: 21px;
-    text-align: left;
+    text-align: center;
     max-width: 800px;
 }
 .about-photos > img {
