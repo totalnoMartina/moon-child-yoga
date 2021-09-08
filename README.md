@@ -21,7 +21,7 @@ The colour scheme for the website was chosen in agreement with Dominka. Her logo
 
 ## Typography
 
-The Font for the website was taken from [Google Fonts](https://fonts.google.com/specimen/Playfair+Display?query=playfair) and the icons in the footer and payment icon that directs to PayPal link were taken from [Font Awesome](https://fontawesome.com/)
+The Font for the website is called 'Playfair' and was taken from [Google Fonts](https://fonts.google.com/specimen/Playfair+Display?query=playfair) and the icons in the footer and payment icon that directs to PayPal link were taken from [Font Awesome](https://fontawesome.com/)
 
 # Features
 
@@ -70,7 +70,7 @@ Booking many types of Massage is one of the next steps in making this website. T
 
 ***Maybe lighthouse testing
 
-Finally fixed width of webside and found a solution on https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
+Finally fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
 
 ## Browser Compatibility
 

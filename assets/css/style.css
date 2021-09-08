@@ -94,6 +94,9 @@ section > h3 {
     background-color: #eccfc3;
     opacity: 85%;
 }
+.links-text {
+    background-color: white;
+}
 #signature {
     font-style: italic;
     padding: 10%;
