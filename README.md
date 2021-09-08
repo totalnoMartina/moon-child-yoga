@@ -68,7 +68,8 @@ Booking many types of Massage is one of the next steps in making this website. T
 
 # Testing
 
-***Maybe lighthouse testing
+I tested the webpage using the Lighthouse in my Chrome Browser and the image shows the results
+![](readme-images/lighthouse-testing.png?raw=true)
 
 Finally fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
 
