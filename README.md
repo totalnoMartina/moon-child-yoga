@@ -17,7 +17,8 @@ The original idea included already known logo and the images wrapped around with
 # Design
 ## Colour scheme
 
-The colour scheme for the website was chosen in agreement with Dominka. Her logo was in dark colours and with blue representing night and deep water, while her photos are pink and purple which helped decide on the shades. Good use of website called [Coolors](https://coolors.co/97ead2-8cc7a1-816e94-74226c-4b2142) when choosing colours: 
+The colour scheme for the website was chosen in agreement with Dominka. Her logo was in dark colours and with blue representing night and deep water, while her photos are pink and purple which helped decide on the shades. Good use of website called [Coolors](https://coolors.co/97ead2-8cc7a1-816e94-74226c-4b2142) when choosing colours. The image of the color palette is below.
+![](readme-images/color-palette.png?raw=true)
 
 ## Typography
 
@@ -71,11 +72,11 @@ Booking many types of Massage is one of the next steps in making this website. T
 I tested the webpage using the Lighthouse in my Chrome Browser and the image shows the results
 ![](readme-images/lighthouse-testing.png?raw=true)
 
-Finally fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
+Fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
 
 ## Browser Compatibility
 
-Firefox testing - the borders around images which are white and grey in Chrome Browser, turn out dark/black in Firefox Display. 
+Firefox testing - the borders around images are made originally white and grey in Chrome Browser,borders on homepage appear dark/black in Firefox Display and while scrolling over the content the Firefox Browser 'blinks' (blackens the whole screen for a second) from scroll to scroll. 
 
 ![Firefox Display](readme-images/firefox-display.png?raw=true)
 

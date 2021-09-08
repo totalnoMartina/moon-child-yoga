@@ -20,7 +20,7 @@ header > h1 {
 .language {
     font-size: 21px;
     text-align: center;
-    background-color: #c01bb0;
+    background-color: #ffadf7;
     position: fixed;
     top: 10px;
     right: 10px;
@@ -66,7 +66,7 @@ body > section {
     padding: 0 10%;
 }
 .active-now {
-    text-decoration-color:  #331f2f;
+    text-decoration-color: #331f2f;
 }
 #home-image {
     max-width: 300px;
@@ -84,18 +84,21 @@ section > h3 {
 }
 .link-nav {
     font-size: 38px;
-    color: #eaeaea;
+    color: #faf3dd;
     letter-spacing: 0.4em;
     border-radius: 35%;
 }
 .link-nav:hover {
     color: #331f2f;
     border-radius: 35%;
-    background-color: #eccfc3;
+    background-color: #faf3dd;
     opacity: 85%;
 }
 .links-text {
     background-color: white;
+}
+.links-text:hover {
+    background-color: unset;
 }
 #signature {
     font-style: italic;
@@ -150,7 +153,7 @@ input[type="submit"] {
 }
 input[type="submit"]:hover {
     background-color: #331f2f;
-    color: #eaeaea;
+    color: #faf3dd;
 }
 /* gallery styles */
 
@@ -178,9 +181,8 @@ footer {
     text-align: center;
     font-size: 30px;
     word-spacing: 5px;
-    color: #fffefe;
     letter-spacing: 2px;
-    background-color: #c01bb0;
+    background-color: #ffadf7;
     position: fixed;
     bottom: 0px;
     left: 0px;
