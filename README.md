@@ -1,9 +1,9 @@
 # Moon Child Yoga 
 
-Moon Child Yoga is a website made to inspire users to dedicate time for keeping their own well-being using Yoga practices, Massage and Reiki. There is an option to book a date and a type of Yoga, and a group yoga class which helps more people connect while learning how to balance, stretch and breathe. You can book Online Yoga class or a class in person, it can be one-on-one or a group yoga class. Massage is only available in Poland at the moment. 
-'Moon Child Yoga' is a pseudonym for Dominka Urbanska, a yogi, reiki master and a massage therapist.
+Moon Child Yoga is a website made to inspire users to dedicate time for keeping their own well-being using Yoga practices, Massage and Reiki. There is an option to book a date and a type of Yoga, and a group yoga class which helps more people connect while learning how to balance, stretch and breathe. You can book Online Yoga class or a class in person, it can be one-on-one or a group yoga class. Massage is only available in Poland at the moment. 'Moon Child Yoga' is a pseudonym for Dominka Urbanska, a yogi, reiki master and a massage therapist.
 
 # Different Screen Sizes 
+
 Image design made with [Canva Website](https://www.canva.com/).
 
 ![IPhone, IPad and Desktop Screens](readme-images/screen-sizes.png?raw=true)
@@ -12,10 +12,14 @@ Image design made with [Canva Website](https://www.canva.com/).
 
 ![Balsamiq Wireframe](readme-images/wireframe.png?raw=true)
 
-The original idea included already known logo and the images wrapped around with text provided all by Dominika.
+The original idea included already known logo and the images wrapped around with text provided all by Dominika. Wireframes are made in [Balsamiq](https://balsamiq.com/).
 
+# Operating system
+
+This website is made on "Linux penguin 5.4.119-14945-gafc97d54f809 #1 SMP PREEMPT Thu Aug 19 19:24:09 PDT 2021 x86_64 GNU/Linux" operating system on a "ASUS Chomebook".
 
 # Design
+
 ## Colour scheme
 
 The colour scheme for the website was chosen in agreement with Dominka. Her logo was in dark colours and with blue representing night and deep water, while her photos are pink and purple which helped decide on the shades. Good use of website called [Coolors](https://coolors.co/97ead2-8cc7a1-816e94-74226c-4b2142) when choosing colours. The image of the color palette is below.
@@ -41,52 +45,52 @@ Navigation bar which navigates to "Home", "Book Here", "Gallery - About" with on
 
 ## Homepage
 
-Homepage contains text about the beginnings of Dominika's yoga practice, as a student, and some photos showing certificates and people involved in her educational part of the journey to becoming a yoga teacher. This is valuable to the user because she/he can relate to someone learning and finding her path.
+Homepage contains text about the beginnings of Dominika's yoga practice, as a student, and some photos showing certificates and people involved in her educational part of the journey to becoming a yoga teacher. This is valuable to the user so user can relate to someone learning and finding her passion.
 
 ![Homepage](readme-images/homepage-first-page.png?raw=true)
 
 ## Booking form
 
 Booking form contains a poster of Dominika and is used to book a yoga class or massage class.
-This is of value because user is able to book a class online or in person and make direct payment.
+This is of value to the user while booking a class online or in person and can make a direct payment through PayPal.
 
 ![Booking Form](readme-images/booking-form-page.png?raw=true)
 
 ## Gallery 
 
-Gallery contains images of yoga poses in many different places all masterfully presented by Dominika and some text under about her career before and after Yoga teacher training, education and personal references. This is of value to user because of yoga poses showing skills and abilities of this yoga teacher.
+Gallery contains images of yoga poses in many different places all masterfully presented by Dominika and related text under about her career before and after Yoga teacher training, her skills and education. This is of value to the user because of yoga poses showing skills and abilities of this yoga teacher, and her learning path.
 
 ![Gallery](readme-images/gallery-page.png?raw=true)
 
 ## Footer
 
-Footer contains Facebook and Instagram links, which open in a new tab, and a middle link for getting back to the top of the page towards navigation. This is of value to the user because it provides social media links where we could get in touch with this yoga teacher and see more of her abilites and skills that make her who she is. The middle button "Back to top" is valuable for accessing navigation with one click.
+Footer contains Facebook and Instagram links, which both open in a new tab, and a middle link for getting back to the top of the page towards navigation. This is of value to the user because it provides social media links where we could get in touch with this yoga teacher and see more of her abilites and skills that make her who she is. The middle button "Back to top" is valuable for accessing navigation with one click.
 
 ![Footer](readme-images/footer.png?raw=true)
 
 # Features left to implement
 
-Booking many types of Massage is one of the next steps in making this website. The idea is to own her own yoga studio and have space for massage and options of many types of massage since at the moment Dominka is attending University in Poland to improve her massage skills. Also, adding Reiki to the page with more information is a vision for the future of this website.
+Booking many types of Massage is one of the next steps in making this website. The idea is to own her own yoga studio and have space for massage and options of many types of massage since, at the moment, Dominka is attending University in Poland to improve her massage skills. Also, adding more informations about Reiki to the page is in plan for the future of this website.
 
 # Testing
 
-I tested the webpage using the Lighthouse in my Chrome Browser and the image shows the results
+Tested the webpage using the Lighthouse in Chrome Browser and the image below shows the results
 ![](readme-images/lighthouse-testing.png?raw=true)
 
-Finally fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
+Fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
 
 ## Browser Compatibility
 
-Firefox testing - the borders around images are made originally white and grey in Chrome Browser,borders on homepage appear dark/black in Firefox Display and while scrolling over the content the Firefox Browser 'blinks' (blackens the whole screen for a second) from scroll to scroll. 
+Firefox testing - the borders around images are made originally white and grey in Chrome Browser,borders on homepage appear dark/black in Firefox Display and while scrolling over the content the Firefox Browser 'blinks' (blackens the whole screen for a second) in-between scrolling. 
 
 ![Firefox Display](readme-images/firefox-display.png?raw=true)
 
 
-IPhone 6 Display is the one I tested this webpage on and there were no issues or irregularities.
+IPhone 6 display showed no issues or irregularities.
 
 ![IPhone 6/7/8 Display](readme-images/iphone-screen.png?raw=true)
 
-IPad Display showed the webpage without issues or irregularities.
+IPad display showed the webpage without issues or irregularities.
 
 ![IPad Display](readme-images/ipad-screen.png?raw=true)
 
@@ -106,7 +110,7 @@ CSS
 
 ## Unfixed bugs
 
-There was not bugs in making this webpage.
+There was no bugs in making this webpage.
 
 # Deployment
 
@@ -131,11 +135,11 @@ In making of the webpage, Dominika, the Yoga teacher, provided all of the inform
 While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the [link here](https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/).
 Barbara Radovic, from Croatia, helped with word-proofing the text.
 
-Gallery is made with an inline-flex property which I got inspiration on this [link](https://www.developerdrive.com/responsive-image-gallery-flexbox/) for.
+Gallery is made with an inline-flex property which I was inspired by this [link](https://www.developerdrive.com/responsive-image-gallery-flexbox/).
 
 # Content
 
-The majority of content was provided by Dominka, the yoga teacher, she had cover letters and CV samples and many images taken by her friends all around the world.
+The entire content was provided by Dominka, this amazing yoga teacher, she had cover letters and CV samples written, and many images were taken by her friends all around the world.
 The form was helped to be created by Dominika in text, offers, prices and structure.
 
 # Media
