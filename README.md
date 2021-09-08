@@ -1,6 +1,7 @@
 # Moon Child Yoga 
 
-Moon Child Yoga is a website made to inspire more people dedicate time for keeping their own well-being using Yoga practices, Massage and Reiki. There is an option to book a date and a type of Yoga and a group yoga class which helps more people connect while learning how to balance, stretch and breathe. You can book Online Yoga class or a class in person, it can be one-on-one or a group yoga class. Massage is only available in Poland at the moment.
+Moon Child Yoga is a website made to inspire users to dedicate time for keeping their own well-being using Yoga practices, Massage and Reiki. There is an option to book a date and a type of Yoga, and a group yoga class which helps more people connect while learning how to balance, stretch and breathe. You can book Online Yoga class or a class in person, it can be one-on-one or a group yoga class. Massage is only available in Poland at the moment. 
+'Moon Child Yoga' is a pseudonym for Dominka Urbanska, a yogi, reiki master and a massage therapist.
 
 # Different Screen Sizes 
 Image design made with [Canva Website](https://www.canva.com/).
@@ -72,7 +73,7 @@ Booking many types of Massage is one of the next steps in making this website. T
 I tested the webpage using the Lighthouse in my Chrome Browser and the image shows the results
 ![](readme-images/lighthouse-testing.png?raw=true)
 
-Fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
+Finally fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
 
 ## Browser Compatibility
 
