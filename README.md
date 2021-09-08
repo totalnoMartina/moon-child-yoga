@@ -128,6 +128,8 @@ In making of the webpage, Dominika, the Yoga teacher, provided all of the inform
 While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the [link here](https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/).
 Barbara Radovic, from Croatia, helped with word-proofing the text.
 
+Gallery is made with an inline-flex property which I got inspiration on this [link](https://www.developerdrive.com/responsive-image-gallery-flexbox/) for.
+
 # Content
 
 The majority of content was provided by Dominka, the yoga teacher, she had cover letters and CV samples and many images taken by her friends all around the world.

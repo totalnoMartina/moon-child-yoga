@@ -154,14 +154,11 @@ input[type="submit"]:hover {
 }
 /* gallery styles */
 
-.gallery {
-    padding-top: 50px;
-    padding-left: 150px;
-}
 .gallery > img {
-    max-width: 310px;
-    max-height: 340px;
-    padding: 10px;
+    max-width: 350px;
+    display: inline-flex;
+    vertical-align: middle;
+    margin: 1.5rem;
 }
 .about-me {
     font-size: 21px;
