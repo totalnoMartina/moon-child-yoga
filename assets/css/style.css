@@ -136,7 +136,7 @@ p {
     max-width: 300px;
     max-height: 300px;
     float: right;
-    padding: 25px 80px 0px 150px;
+    padding: 250px 200px 0px 100px;
 }
 
 .select-date {
@@ -220,7 +220,7 @@ footer {
     text-align: center;
     font-size: 30px;
     word-spacing: 5px;
-    letter-spacing: 2px;
+
     background-color: #e000ca;
     position: fixed;
     bottom: 0px;
@@ -232,7 +232,6 @@ footer {
 
 .link-footer {
     color: #330429;
-    word-spacing: 10px;
 }
 
 /* Media query for maximum screen size of 600px */
@@ -258,8 +257,8 @@ footer {
         clear: both;
         text-align: center;
         font-size: 18px;
-        margin: 0px;
-        padding: 0px;
+        margin: 0;
+        padding: 0;
     }
 
     p {
@@ -276,7 +275,7 @@ footer {
         max-width: 85px;
         position: fixed;
         top: 30px;
-        right: 0px;
+        right: 0;
         margin: 3px;
     }
 
@@ -307,7 +306,7 @@ footer {
 
     input {
         max-width: 100px;
-        padding: 0px;
+        padding: 0;
     }
 
     form>h1 {
@@ -325,12 +324,11 @@ footer {
     }
 
     footer {
-        font-size: 18px;
         position: fixed;
-        bottom: 0px;
-        left: 0px;
-        right: 0px;
-        margin-bottom: 0px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin-bottom: 0;
     }
 }
 
@@ -339,7 +337,7 @@ footer {
     body>section {
         max-width: 840px;
         font-size: 19px;
-        padding: 0%;
+        padding: 0;
     }
 
     .link-nav {
@@ -388,7 +386,7 @@ footer {
     body>section {
         max-width: 1290px;
         font-size: 22px;
-        padding: 0%;
+        padding: 0;
     }
 
     .about-me {
