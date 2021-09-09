@@ -14,10 +14,6 @@ Image design made with [Canva Website](https://www.canva.com/).
 
 The original idea included already known logo and the images wrapped around with text provided all by Dominika. Wireframes are made in [Balsamiq](https://balsamiq.com/).
 
-# Operating system
-
-This website is made on "Linux penguin 5.4.119-14945-gafc97d54f809 #1 SMP PREEMPT Thu Aug 19 19:24:09 PDT 2021 x86_64 GNU/Linux" operating system on a "ASUS Chomebook".
-
 # Design
 
 ## Colour scheme
@@ -52,7 +48,7 @@ Homepage contains text about the beginnings of Dominika's yoga practice, as a st
 ## Booking form
 
 Booking form contains a poster of Dominika and is used to book a yoga class or massage class.
-This is of value to the user while booking a class online or in person and can make a direct payment through PayPal.
+This is of value to the user while booking a class online or in person and can make a direct payment through PayPal. The layout for the form is intentionally including a lot of space between so the form and the image are emphasised better.
 
 ![Booking Form](readme-images/booking-form-page.png?raw=true)
 
@@ -75,9 +71,9 @@ Booking many types of Massage is one of the next steps in making this website. T
 # Testing
 
 Tested the webpage using the Lighthouse in Chrome Browser and the image below shows the results
-![](readme-images/lighthouse-testing.png?raw=true)
+![](readme-images/lighthouse-testing.png?raw=true).
 
-Fixed width of webside and found a solution on [Stackoverflow]https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page
+Fixed width of webside and found a solution on [Stackoverflow](https://stackoverflow.com/questions/36822955/how-to-get-rid-of-horizontal-scroll-of-a-page).
 
 ## Browser Compatibility
 
@@ -135,7 +131,7 @@ In making of the webpage, Dominika, the Yoga teacher, provided all of the inform
 While exploring options that make a good website I thought the idea of a button that brings you back to top of page when you scroll far down is a great one, I found out how to go about that on the [link here](https://forum.squarespace.com/topic/10886-how-can-i-add-a-scroll-to-top-button/).
 Barbara Radovic, from Croatia, helped with word-proofing the text.
 
-Gallery is made with an inline-flex property which I was inspired by this [link](https://www.developerdrive.com/responsive-image-gallery-flexbox/).
+Gallery is made with an inline-flex property which I was inspired by this [link](https://www.developerdrive.com/responsive-image-gallery-flexbox/)
 
 # Content
 

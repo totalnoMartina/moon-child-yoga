@@ -6,17 +6,21 @@
     margin: 0;
     font-family: 'Playfair Display', serif;
 }
+
 html {
     scroll-behavior: smooth;
 }
+
 header {
     text-align: center;
 }
-header > h1 {
+
+header>h1 {
     text-align: center;
     font-size: 100px;
     letter-spacing: 2px;
 }
+
 .language {
     font-size: 21px;
     text-align: center;
@@ -25,125 +29,153 @@ header > h1 {
     top: 10px;
     right: 10px;
 }
+
 body {
     color: #11010e;
     background-color: #9f6eaf;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow-x: hidden;/*test* it */
+    overflow-x: hidden;
 }
+
 #logo {
     max-width: 250px;
     margin: auto;
     border-radius: 50%;
 }
-#intro, #teachers {
+
+#intro,
+#teachers {
     max-width: 860px;
     font-size: 21px;
     text-align: center;
     padding-top: 50px;
     padding-left: 50px;
 }
+
 .home-page-photos {
     max-width: 260px;
     padding: 6%;
     border-style: groove;
     border-width: 10px;
 }
+
 #certified {
     max-width: 200px;
     border-radius: 50%;
     float: right;
 }
+
 ol {
     list-style-type: disc;
 }
+
 ul {
     list-style-type: none;
 }
-body > section {
+
+body>section {
+    font-size: 21px;
     max-width: 860px;
     padding: 0 10%;
 }
+
 .active-now {
     text-decoration-color: #331f2f;
 }
+
 #home-image {
     max-width: 300px;
     border-radius: 45%;
 }
-article {
-    text-align: right;
-    margin: 20%;
-}
-section > h3 {
+
+section>h3 {
     text-align: center;
     font-size: 22px;
     padding: 5px 0px 5px 0px;
     text-decoration: underline;
 }
+
+p {
+    text-align: center;
+    font-size: 21px;
+}
+
 .link-nav {
     font-size: 38px;
     color: #faf3dd;
     letter-spacing: 0.4em;
     border-radius: 35%;
 }
+
 .link-nav:hover {
     color: #331f2f;
     border-radius: 35%;
     background-color: #faf3dd;
     opacity: 85%;
 }
+
 .links-text {
+    color: 331f2f;
     background-color: white;
 }
+
 .links-text:hover {
     background-color: unset;
 }
+
 #signature {
     font-style: italic;
     padding: 10%;
 }
-/* booking form page styles*/ 
 
-form > h1 {
-    font-size: 65px;
-    max-width: 35px;
-    position: relative;
-    left: 100px;
-}
+/* booking form page styles*/
+
 #poster-book {
     max-width: 300px;
     max-height: 300px;
     float: right;
     padding: 25px 80px 0px 150px;
 }
+
 .select-date {
     text-decoration: underline;
 }
+
 form {
     font-size: 20px;
     text-align: center;
     max-width: 350px;
     padding: 200px 0px 70px 200px;
 }
-form > label {
+
+form>h1 {
+    font-size: 65px;
+    max-width: 35px;
+    padding-left: 100px;
+}
+
+form>label {
     text-align: center;
     margin: 25%;
 }
+
 .select-date {
     text-decoration: underline;
 }
+
 form input[type="date"] {
     width: 250px;
     clear: both;
     margin-bottom: 8%;
 }
+
 .details {
     text-align: center;
     width: 230px;
     height: 30px;
 }
+
 input[type="submit"] {
     border: 20px solid;
     border-radius: 50%;
@@ -151,31 +183,37 @@ input[type="submit"] {
     width: 9em;
     height: 9em;
 }
+
 input[type="submit"]:hover {
     background-color: #331f2f;
     color: #faf3dd;
 }
+
 /* gallery styles */
 
-.gallery > img {
+.gallery>img {
     max-width: 350px;
     display: inline-flex;
     vertical-align: middle;
     margin: 1.5rem;
 }
+
 .about-me {
     font-size: 21px;
     text-align: center;
     max-width: 800px;
 }
-.about-photos > img {
+
+.about-photos>img {
     max-width: 350px;
     max-height: 350px;
 }
+
 .padding-gallery {
     padding-bottom: 50px;
 }
-/* footer styles */ 
+
+/* footer styles */
 
 footer {
     text-align: center;
@@ -190,36 +228,44 @@ footer {
     margin-bottom: 0px;
     padding: 0.2em;
 }
+
 .link-footer {
     color: #330429;
     word-spacing: 10px;
 }
+
 /* Media query for maximum screen size of 600px */
 
 @media screen and (max-width: 600px) {
-    header > h1 {
+    header>h1 {
         max-width: 350px;
         font-size: 26px;
         text-align: center;
         padding: 5px;
     }
+
     .link-nav {
         font-size: 19px;
     }
+
     #logo {
         max-width: 150px;
     }
-    #intro, #teachers {
+
+    #intro,
+    #teachers {
         clear: both;
         text-align: center;
         font-size: 18px;
         margin: 0px;
         padding: 0px;
     }
-    body > section {
+
+    body>section {
         max-width: 340px;
         padding: 10px 0px 10px 20px;
     }
+
     .language {
         font-size: 13px;
         max-width: 85px;
@@ -228,40 +274,49 @@ footer {
         right: 0px;
         margin: 3px;
     }
+
     #certified {
         max-width: 30%;
     }
+
     #home-page-photos {
         max-width: 250px;
         padding: 10px;
         border-width: 5px;
     }
+
     #poster-book {
         float: none;
         padding: 50px 0px 0px 50px;
     }
+
     form {
         max-width: 250px;
         font-size: 14px;
         text-align: center;
         padding: 5px 5px 25px 45px;
     }
+
     input {
         max-width: 100px;
         padding: 0px;
     }
-    form > h1 {
+
+    form>h1 {
         font-size: 20px;
         padding: 25px 150px 10px 5px;
     }
+
     .gallery {
         padding: 15px 10px 10px 10px;
     }
+
     .about-me {
         font-size: inherit;
         padding: 5px;
         text-align: center;
     }
+
     footer {
         font-size: 18px;
         position: fixed;
@@ -271,35 +326,44 @@ footer {
         margin-bottom: 0px;
     }
 }
+
 /* media query for maximum of 900px */
 @media screen and (max-width: 900px) {
-    body > section {
+    body>section {
         max-width: 840px;
         font-size: 19px;
         padding: 0%;
     }
+
     .link-nav {
         font-size: 20px;
     }
+
     #logo {
         max-width: 180px;
     }
-    header > h1 {
+
+    header>h1 {
         font-size: 45px;
     }
-    #intro, #teachers {
+
+    #intro,
+    #teachers {
         text-align: center;
         font-size: 19px;
         padding: 5px 30px 25px 5px;
     }
-    form > label {
+
+    form>label {
         max-width: 190px;
         font-size: 18px;
     }
+
     .about-me {
         max-width: 690px;
         padding: 5px 10px 15px;
     }
+
     footer {
         font-size: 20px;
     }
@@ -307,18 +371,22 @@ footer {
 
 /* media query for minimmum of 1396px */
 @media screen and (min-width: 1396px) {
-    #intro, #teachers {
+
+    #intro,
+    #teachers {
         max-width: 1290px;
         padding: 5px 5px 30px 5px;
     }
-    body > section {
+
+    body>section {
         max-width: 1290px;
         font-size: 22px;
         padding: 0%;
     }
+
     .about-me {
         max-width: 1300px;
         font-size: 22px;
         padding: 10px 10px 10px 10px;
-        }
+    }
 }
